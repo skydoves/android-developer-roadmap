@@ -19,9 +19,9 @@ In addition, this roadmap doesn't cover everything about Android development, an
 
 This project includes a demo project which shows the roadmap image. You can download the latest APK on the [Releases](https://github.com/skydoves/android-developer-roadmap/releases).
 
-## Blog Contents
+## Articles
 
-Blog contents for the Android Developer Roadmap coming soon on the **[Stream Blog](https://getstream.io/blog/topic/engineering/android/)**.
+New articles for the Android Developer Roadmap are coming soon on the **[Stream Blog](https://getstream.io/blog/topic/engineering/android/)**.
 
 ## Contribution
 
