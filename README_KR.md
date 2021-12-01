@@ -20,11 +20,11 @@
 
 ## Demo Application
 
-본 오픈소스 프로젝트는 로드맵 이미지를 보여주는 데모 앱을 포함하고 있습니다. [Releases](https://github.com/skydoves/android-developer-roadmap/releases)에서 APK 파일을 다운로드하실 수 있습니다.
+본 오픈소스 프로젝트는 로드맵 이미지를 보여주는 데모 앱을 포함하고 있습니다. [Releases](https://github.com/skydoves/android-developer-roadmap/releases) 에서 APK 파일을 다운로드하실 수 있습니다.
 
 ## Articles
 
-2022 안드로이드 개발자 로드맵에 관한 블로그 포스트가 **[Stream Blog](https://getstream.io/blog/topic/engineering/android/)**에 추후 업로드될 예정입니다. 관심 있으신 분들은 [watchers](https://github.com/skydoves/android-developer-roadmap/watchers)를 통해 새로운 소식을 받으실 수 있습니다.
+2022 안드로이드 개발자 로드맵에 관한 블로그 포스트가 **[Stream Blog](https://getstream.io/blog/topic/engineering/android/)** 에 추후 업로드될 예정입니다. 관심이 있으신 분들은 [watchers](https://github.com/skydoves/android-developer-roadmap/watchers) 를 통해 새로운 소식을 받으실 수 있습니다.
 
 ## Contribution
 
@@ -32,11 +32,11 @@
 
 ## Inspiration
 
-로드맵 프로젝트는 [Android Developer Roadmap 2020](https://github.com/mobile-roadmap/android-developer-roadmap)에서 영감을 받았습니다. 아이디어를 주신 프로젝트의 저자분들께 감사의 말씀을 드리며, 해당 리파지토리에서도 많은 내용을 학습하실 수 있습니다.
+로드맵 프로젝트는 [Android Developer Roadmap 2020](https://github.com/mobile-roadmap/android-developer-roadmap) 에서 영감을 받았습니다. 아이디어를 주신 프로젝트의 저자분들께 감사의 말씀을 드리며, 해당 리파지토리에서도 많은 내용을 학습하실 수 있습니다.
 
 ## Find this project useful? :heart:
 
-오픈소스 프로젝트가 많은 도움이 되었다면 __[stargazers](https://github.com/skydoves/android-developer-roadmap/stargazers)__에 참여 부탁드립니다. :star:
+오픈소스 프로젝트가 많은 도움이 되었다면 __[stargazers](https://github.com/skydoves/android-developer-roadmap/stargazers)__ 에 많은 참여 부탁드립니다. :star:
 
 ## License
 ```
