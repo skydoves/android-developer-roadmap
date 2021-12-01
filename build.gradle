@@ -1,0 +1,25 @@
+buildscript {
+    ext {
+        compose_version = '1.1.0-beta03'
+        compose_activity_version = '1.4.0'
+        landscapist_version = '1.4.3'
+        zoomable_version = '1.2.0'
+    }
+}
+
+plugins {
+    id "com.diffplug.spotless" version "5.15.0"
+}
+
+subprojects {
+    apply plugin: 'com.diffplug.spotless'
+    spotless {
+        kotlin {
+            target "**/*.kt"
+            ktlint("0.41.0").userData(['indent_size': '2', 'continuation_indent_size': '2'])
+            licenseHeaderFile "$rootDir/spotless.license.kt"
+            trimTrailingWhitespace()
+            endWithNewline()
+        }
+    }
+}
