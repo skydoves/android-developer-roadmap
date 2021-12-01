@@ -4,6 +4,9 @@
   <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
   <a href="https://github.com/skydoves/android-developer-roadmap/actions/workflows/build.yml"><img alt="Build Status" src="https://github.com/skydoves/android-developer-roadmap/actions/workflows/build.yml/badge.svg"/></a>
 </p>
+<p align="center">
+<a href="/README.md" target="_blank"> English </a> | <a href="/README_KR.md" target="_blank"> 한국어 </a>
+</p>
 
 Android Developer Roadmap 2022 suggests learning paths to understanding Android development. You can read the roadmap following the line path in the middle of the map. <br>
 
@@ -21,7 +24,7 @@ This project includes a demo project which shows the roadmap image. You can down
 
 ## Articles
 
-New articles for the Android Developer Roadmap are coming soon on the **[Stream Blog](https://getstream.io/blog/topic/engineering/android/)**.
+New articles for the Android Developer Roadmap are coming soon on the **[Stream Blog](https://getstream.io/blog/topic/engineering/android/)**. If you have any interests, you can get notifications by joining [watchers](https://github.com/skydoves/android-developer-roadmap/watchers).
 
 ## Contribution
 
