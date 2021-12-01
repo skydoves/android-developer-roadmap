@@ -20,11 +20,11 @@
 
 ## Demo Application
 
-이 오픈소스 프로젝트는 로드맵 이미지를 보여주는 데모 앱을 포함하고 있습니다. [Releases](https://github.com/skydoves/android-developer-roadmap/releases)에서 APK 파일을 다운로드하실 수 있습니다.
+본 오픈소스 프로젝트는 로드맵 이미지를 보여주는 데모 앱을 포함하고 있습니다. [Releases](https://github.com/skydoves/android-developer-roadmap/releases)에서 APK 파일을 다운로드하실 수 있습니다.
 
 ## Articles
 
-2022 안드로이드 개발자 로드맵과 관련된 블로그 포스트가 **[Stream Blog](https://getstream.io/blog/topic/engineering/android/)**에 업로드될 예정입니다.
+2022 안드로이드 개발자 로드맵에 관한 블로그 포스트가 **[Stream Blog](https://getstream.io/blog/topic/engineering/android/)**에 추후 업로드될 예정입니다. 관심 있으신 분들은 [watchers](https://github.com/skydoves/android-developer-roadmap/watchers)를 통해 새로운 소식을 받으실 수 있습니다.
 
 ## Contribution
 

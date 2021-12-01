@@ -24,7 +24,7 @@ This project includes a demo project which shows the roadmap image. You can down
 
 ## Articles
 
-New articles for the Android Developer Roadmap are coming soon on the **[Stream Blog](https://getstream.io/blog/topic/engineering/android/)**.
+New articles for the Android Developer Roadmap are coming soon on the **[Stream Blog](https://getstream.io/blog/topic/engineering/android/)**. If you have any interests, you can get notifications by joining [watchers](https://github.com/skydoves/android-developer-roadmap/watchers).
 
 ## Contribution
 
