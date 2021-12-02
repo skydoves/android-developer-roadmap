@@ -12,7 +12,7 @@ Android Developer Roadmap 2022 suggests learning paths to understanding Android 
 
 Each node indicates concepts of Android systems, Android SDK, and generally used libraries. It would be helpful to refer to the [Android Developers Reference](https://developer.android.com/reference) or GitHub for the specific terminologies. <br>
 
-In addition, this roadmap doesn't cover everything about Android development, and you don't need to learn everything from it. So we recommend only reading the sections that would be helpful to you.
+In addition, **you don't need to learn everything from this roadmap**. So we recommend only reading the sections that would be helpful to you.
 
 ## Roadmap
 
