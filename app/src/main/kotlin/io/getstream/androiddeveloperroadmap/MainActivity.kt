@@ -39,7 +39,6 @@ class MainActivity : ComponentActivity() {
     setContent {
       AndroidDeveloperRoadmapTheme {
         Surface(
-          modifier = Modifier.fillMaxSize(),
           color = MaterialTheme.colors.background
         ) {
           Roadmap()
@@ -55,7 +54,7 @@ private fun Roadmap() {
     modifier = Modifier.height(3200.dp)
   ) {
     GlideImage(
-      imageModel = "https://user-images.githubusercontent.com/24237865/144011218-1d141580-0ef9-467d-854c-6f7786d7c823.png",
+      imageModel = "https://user-images.githubusercontent.com/24237865/144350753-5a52e6e5-3517-476c-8e5c-adad919abe8e.png",
       modifier = Modifier.fillMaxSize(),
       previewPlaceholder = R.drawable.roadmap_preview,
       contentScale = ContentScale.Fit
