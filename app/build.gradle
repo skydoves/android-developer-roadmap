@@ -48,6 +48,7 @@ dependencies {
     implementation "androidx.compose.foundation:foundation-layout:$compose_version"
     implementation "androidx.activity:activity-compose:$compose_activity_version"
 
-    implementation "com.github.skydoves:landscapist-glide:$landscapist_version"
     implementation "com.mxalbert.zoomable:zoomable:$zoomable_version"
+
+    implementation("io.coil-kt:coil-compose:1.4.0")
 }
