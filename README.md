@@ -6,7 +6,7 @@
   <a href="https://mailchi.mp/kotlinweekly/kotlin-weekly-279"><img alt="KotlinWeekly" src="https://skydoves.github.io/badges/kotlin-weekly.svg"/></a>
 </p>
 <p align="center">
-<a href="/README.md" target="_blank"> English </a> | <a href="/README_KR.md" target="_blank"> 한국어 </a>
+<a href="/README.md" target="_blank"> English </a> | <a href="/README_KR.md" target="_blank"> 한국어 </a> | <a href="/README_DE.md" target="_blank"> Deutsch </a>
 </p>
 
 Android Developer Roadmap 2022 suggests learning paths to understanding Android development. You can read the roadmap following the line path in the middle of the map. <br>
