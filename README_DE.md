@@ -9,9 +9,9 @@
 <a href="/README.md" target="_blank"> English </a> | <a href="/README_KR.md" target="_blank"> 한국어 </a> | <a href="/README_DE.md" target="_blank"> Deutsch </a>
 </p>
 
-Die Android Developer Roadmap 2022 empfiehlt Lernpfade um die Android Entwicklung zu verstehen. Sie können die Roadmap lesen, indem Sie der Linie in der Mitte der Karte folgen. <br>
+Die Android Developer Roadmap 2022 empfiehlt Lernpfade um die Android Entwicklung besser zu verstehen. Sie können die Roadmap lesen, indem Sie der Linie in der Mitte der Karte folgen. <br>
 
-Jeder Knoten repräsentiert ein Konzept von Android-Systeme, dem Android SDK und allgemein verwendeten Bibliotheken. Es wäre hilfreich für spezielle Technologien auf die [Android Developers Reference](https://developer.android.com/reference) oder GitHub zu verweisen. <br>
+Jeder Knoten repräsentiert ein Konzept von Android-Systemen, dem Android SDK und allgemein verwendeten Bibliotheken. Es wäre hilfreich für spezielle Technologien auf die [Android Developers Reference](https://developer.android.com/reference) oder GitHub zu verweisen. <br>
 
 **Sie müssen nicht den gesamten Inhalt dieser Roadmap lernen**. Wir empfehlen nur die Kapitel zu lesen, die hilfreich für Sie sind.
 
@@ -33,11 +33,11 @@ Dieses Projekt behandelt nicht alles. Falls etwas fehlt oder verbessert werden s
 
 ## Inspiration
 
-Diese Projekt ist inspiriert von der [Android Developer Roadmap 2020](https://github.com/mobile-roadmap/android-developer-roadmap). Vielen Dank an die Autoren die die Idee für die Roadmap aufgebracht haben. Außerdem kann dort viel Wissen erlernt werden.
+Diese Projekt ist von der [Android Developer Roadmap 2020](https://github.com/mobile-roadmap/android-developer-roadmap) inspiriert. Vielen Dank an die Autoren für die Idee für diese Roadmap. Außerdem kann dort viel Wissen erlernt werden.
 
 ## Finden Sie dieses Projekt hilfreich? :heart:
 
-Unterstützen Sie es indem Sie den  __[Stargazern](https://github.com/skydoves/android-developer-roadmap/stargazers)__ für diese Repository beitreten. :star:
+Unterstützen Sie es indem Sie den  __[Stargazern](https://github.com/skydoves/android-developer-roadmap/stargazers)__ für dieses Repository beitreten. :star:
 
 ## Lizenz
 ```
