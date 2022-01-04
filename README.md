@@ -7,7 +7,7 @@
   <a href="https://androidweekly.net/issues/issue-495"><img alt="Android Weekly" src="https://skydoves.github.io/badges/android-weekly.svg"/></a>
 </p>
 <p align="center">
-<a href="/README.md" target="_blank"> English </a> | <a href="/README_KR.md" target="_blank"> 한국어 </a> | <a href="/README_DE.md" target="_blank"> Deutsch </a>
+<a href="/README.md" target="_blank"> English </a> | <a href="/README_KR.md" target="_blank"> 한국어 </a> | <a href="/README_DE.md" target="_blank"> Deutsch </a>| <a href="/README_ES.md" target="_blank"> Español</a>
 </p>
 
 
