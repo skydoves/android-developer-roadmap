@@ -21,13 +21,19 @@ In addition, **you don't need to learn everything from this roadmap**. So we rec
 
 ![Roadmap](/images/android_developer_roadmap.png)
 
+## Articles
+
+![Article](/images/article.png)
+
+The 2022 Android Developer Roadmap is designed to give you a comprehensive understanding of the current Android ecosystem and provides suggested learning paths along the way to help you grasp the concepts.<br><br>
+
+In this multipart series, you'll learn all about the Android development ecosystem following our 2022 Android Developer Roadmap, giving you a more holistic view of the Android community and how you can progress as a developer.
+
+- [The 2022 Android Developer Roadmap — Part1](https://getstream.io/blog/android-developer-roadmap/)
+
 ## Demo Application
 
 This project includes a demo project which shows the roadmap image. You can download the latest APK on the [Releases](https://github.com/skydoves/android-developer-roadmap/releases).
-
-## Articles
-
-New articles for the Android Developer Roadmap are coming soon on the **[Stream Blog](https://getstream.io/blog/topic/engineering/android/)**. If you have any interests, you can get notifications by joining [watchers](https://github.com/skydoves/android-developer-roadmap/watchers).
 
 ## Contribution
 
