@@ -21,13 +21,21 @@ Jeder Knoten repräsentiert ein Konzept von Android-Systemen, dem Android SDK un
 
 ![Roadmap](/images/android_developer_roadmap.png)
 
+## Articles
+
+![Article](/images/article.png)
+
+The 2022 Android Developer Roadmap is designed to give you a comprehensive understanding of the current Android ecosystem and provides suggested learning paths along the way to help you grasp the concepts.<br>
+
+In this multipart series, you'll learn all about the Android development ecosystem following our 2022 Android Developer Roadmap, giving you a more holistic view of the Android community and how you can progress as a developer.
+
+- **[The 2022 Android Developer Roadmap — Part1](https://getstream.io/blog/android-developer-roadmap/)**
+
+If you'd like to get notified as we release future posts, join the **[watchers](https://github.com/skydoves/android-developer-roadmap/watchers)** on GitHub or follow **[Stream](https://twitter.com/getstream_io)** on Twitter.
+
 ## Beispiel-App
 
 Dieses Projekt enthält eine Beispiel-App welche das Bild der Roadmap zeigt. Sie können die aktuellste APK-Datei auf der [Releases-Seite](https://github.com/skydoves/android-developer-roadmap/releases) herunterladen.
-
-## Artikel
-
-Neue Artikel für die Android Developer Roadmap sind bald auf **[Stream Blog](https://getstream.io/blog/topic/engineering/android/)** verfügbar. Falls Sie Interesse haben, können Sie Benachrichtigungen abbonnieren indem die den [Beobachtern](https://github.com/skydoves/android-developer-roadmap/watchers) beitreten.
 
 ## Mitwirken
 

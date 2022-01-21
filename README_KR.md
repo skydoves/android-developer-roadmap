@@ -18,13 +18,21 @@
 
 ![Roadmap](/images/android_developer_roadmap.png)
 
+## Articles
+
+![Article](/images/article.png)
+
+2022년 안드로이드 개발자 로드맵은 최신 안드로이드 생태계를 종합적으로 이해할 수 있도록 디자인되었으며, 제안된 학습 경로를 따라 개념을 파악하는 데 도움이 됩니다.<br>
+
+로드맵과 관련된 포스트는 총 5부로 구성되어 있으며, 2022년 안드로이드 개발자 로드맵에 따라 안드로이드 개발 생태계에 대한 내용을 학습하실 수 있습니다. 또한 안드로이드 커뮤니티에 대한 전체적인 시각과 개발자로서 어떻게 발전할 수 있는지 살펴볼 수 있습니다.
+
+- **[The 2022 Android Developer Roadmap — Part1](https://getstream.io/blog/android-developer-roadmap/)**
+
+추가적인 포스트는 **[Stream Blog](https://getstream.io/blog/topic/engineering/android/)** 에 지속적으로 업로드될 예정입니다.
+
 ## Demo Application
 
 본 오픈소스 프로젝트는 로드맵 이미지를 보여주는 데모 앱을 포함하고 있습니다. [Releases](https://github.com/skydoves/android-developer-roadmap/releases) 에서 APK 파일을 다운로드하실 수 있습니다.
-
-## Articles
-
-2022 안드로이드 개발자 로드맵에 관한 블로그 포스트가 **[Stream Blog](https://getstream.io/blog/topic/engineering/android/)** 에 추후 업로드될 예정입니다. 관심이 있으신 분들은 [watchers](https://github.com/skydoves/android-developer-roadmap/watchers) 를 통해 새로운 소식을 받으실 수 있습니다.
 
 ## Contribution
 
