@@ -5,6 +5,7 @@
   <a href="https://github.com/skydoves/android-developer-roadmap/actions/workflows/build.yml"><img alt="Build Status" src="https://github.com/skydoves/android-developer-roadmap/actions/workflows/build.yml/badge.svg"/></a>
   <a href="https://mailchi.mp/kotlinweekly/kotlin-weekly-279"><img alt="Kotlin Weekly" src="https://skydoves.github.io/badges/kotlin-weekly2.svg"/></a>
   <a href="https://androidweekly.net/issues/issue-495"><img alt="Android Weekly" src="https://skydoves.github.io/badges/android-weekly.svg"/></a>
+  <a href="https://github.com/skydoves"><img alt="Profile" src="https://skydoves.github.io/badges/skydoves.svg"/></a>
 </p>
 
 
@@ -20,7 +21,7 @@
 
 ## Articles
 
-![Article](/images/article.png)
+<a href="https://getstream.io/blog/android-developer-roadmap/"><img src="images/article.png" /></a><br>
 
 2022년 안드로이드 개발자 로드맵은 최신 안드로이드 생태계를 종합적으로 이해할 수 있도록 디자인되었으며, 제안된 학습 경로를 따라 개념을 파악하는 데 도움이 됩니다.<br>
 
@@ -29,7 +30,7 @@
 - **[The 2022 Android Developer Roadmap: Part 1](https://getstream.io/blog/android-developer-roadmap/)**
 - **[The 2022 Android Developer Roadmap: Part 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
 
-추가적인 포스트는 **[Stream Blog](https://getstream.io/blog/topic/engineering/android/)** 에 지속적으로 업로드될 예정입니다.
+추가적인 포스트는 **[Stream Blog](https://getstream.io/blog/topic/engineering/android/)** 에 지속적으로 업로드될 예정입니다. 또한, 다음 포스트에 대한 알림을 위해 이 리파지토리의 __[작성자](https://github.com/skydoves)__ 를 팔로우 하실 수도 있습니다.
 
 ## Demo Application
 

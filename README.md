@@ -5,6 +5,7 @@
   <a href="https://github.com/skydoves/android-developer-roadmap/actions/workflows/build.yml"><img alt="Build Status" src="https://github.com/skydoves/android-developer-roadmap/actions/workflows/build.yml/badge.svg"/></a>
   <a href="https://mailchi.mp/kotlinweekly/kotlin-weekly-279"><img alt="Kotlin Weekly" src="https://skydoves.github.io/badges/kotlin-weekly2.svg"/></a>
   <a href="https://androidweekly.net/issues/issue-495"><img alt="Android Weekly" src="https://skydoves.github.io/badges/android-weekly.svg"/></a>
+  <a href="https://github.com/skydoves"><img alt="Profile" src="https://skydoves.github.io/badges/skydoves.svg"/></a>
 </p>
 <p align="center">
 <a href="/README.md" target="_blank"> English </a> | <a href="/README_KR.md" target="_blank"> 한국어 </a> | <a href="/README_DE.md" target="_blank"> Deutsch </a>| <a href="/README_ES.md" target="_blank"> Español</a> | <a href="/README_TR.md" target="_blank"> Turkish</a>
@@ -23,7 +24,7 @@ In addition, **you don't need to learn everything from this roadmap**. So we rec
 
 ## Articles
 
-![Article](/images/article.png)
+<a href="https://getstream.io/blog/android-developer-roadmap/"><img src="images/article.png" /></a><br>
 
 The 2022 Android Developer Roadmap is designed to give you a comprehensive understanding of the current Android ecosystem and provides suggested learning paths along the way to help you grasp the concepts.<br>
 
@@ -32,7 +33,7 @@ In this multipart series, you'll learn all about the Android development ecosyst
 - **[The 2022 Android Developer Roadmap: Part 1](https://getstream.io/blog/android-developer-roadmap/)**
 - **[The 2022 Android Developer Roadmap: Part 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
 
-If you'd like to get notified as we release future posts, join the **[watchers](https://github.com/skydoves/android-developer-roadmap/watchers)** on GitHub or follow **[Stream](https://twitter.com/getstream_io)** on Twitter.
+If you'd like to get notified as we release future posts, join the **[watchers](https://github.com/skydoves/android-developer-roadmap/watchers)** on GitHub or follow **[Stream](https://twitter.com/getstream_io)** on Twitter. You can also follow the __[author](https://github.com/skydoves)__ of this repository on GitHub.
 
 ## Demo Application
 
@@ -48,7 +49,8 @@ This project is inspired by [Android Developer Roadmap 2020](https://github.com/
 
 ## Find this project useful? :heart:
 
-Support it by joining __[stargazers](https://github.com/skydoves/android-developer-roadmap/stargazers)__ for this repository. :star:
+Support it by joining __[stargazers](https://github.com/skydoves/android-developer-roadmap/stargazers)__ for this repository. :star: <br>
+And __[follow](https://github.com/skydoves)__ me for my next creations! 🤩
 
 ## License
 ```
