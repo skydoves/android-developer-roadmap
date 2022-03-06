@@ -22,18 +22,18 @@ Jeder Knoten repräsentiert ein Konzept von Android-Systemen, dem Android SDK un
 
 ![Roadmap](/images/android_developer_roadmap.png)
 
-## Articles
+## Artikel
 
 <a href="https://getstream.io/blog/android-developer-roadmap/"><img src="images/article.png" /></a><br>
 
-The 2022 Android Developer Roadmap is designed to give you a comprehensive understanding of the current Android ecosystem and provides suggested learning paths along the way to help you grasp the concepts.<br>
+Die Android Developer Roadmap 2022 wurde erstellt um Ihnen ein umfassendes Verständnis für das Android Ökosystem zu vermitteln und Ihnen empfohlene Lernpfade an die Hand zu geben, damit Sie die Sachverhalte schneller greifen können.<br>
 
-In this multipart series, you'll learn all about the Android development ecosystem following our 2022 Android Developer Roadmap, giving you a more holistic view of the Android community and how you can progress as a developer.
+In dieser mehrteiligen Serie werden Sie alles über das Android Ökosystem lernen indem Sie der Android Developer Roadmap 2022 folgen, die Ihnen eine ganzheitliche Sicht der Android Community gibt und Ihnen zeigt wie Sie als Entwickler Fortschritte erzielen können.
 
-- **[The 2022 Android Developer Roadmap: Part 1](https://getstream.io/blog/android-developer-roadmap/)**
-- **[The 2022 Android Developer Roadmap: Part 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
+- **[Die Android Developer Roadmap 2022: Teil 1](https://getstream.io/blog/android-developer-roadmap/)**
+- **[Die Android Developer Roadmap 2022: Teil 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
 
-If you'd like to get notified as we release future posts, join the **[watchers](https://github.com/skydoves/android-developer-roadmap/watchers)** on GitHub or follow **[Stream](https://twitter.com/getstream_io)** on Twitter.
+Wenn Sie zukünftig benachrichtigt werden wollen, sobald wir neue Beiträge veröffentlicht werden, treten Sie den **[Watchern](https://github.com/skydoves/android-developer-roadmap/watchers)** auf GitHub bei oder folgen Sie **[Stream](https://twitter.com/getstream_io)** auf Twitter.
 
 ## Beispiel-App
 
