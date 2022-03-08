@@ -26,14 +26,14 @@ Ayrıca bu yol haritasındaki her şeyi öğrenmenize gerek yok. Bu nedenle, yal
 
 <a href="https://getstream.io/blog/android-developer-roadmap/"><img src="images/article.png" /></a><br>
 
-The 2022 Android Developer Roadmap is designed to give you a comprehensive understanding of the current Android ecosystem and provides suggested learning paths along the way to help you grasp the concepts.<br>
+Android Developer Roadmap 2022, mevcut Android ekosistemini kapsamlı bir şekilde anlamanızı sağlamak için tasarlanmıştır ve kavramları kavramanıza yardımcı olmak için yol boyunca önerilen öğrenme yolları sağlar.
 
-In this multipart series, you'll learn all about the Android development ecosystem following our 2022 Android Developer Roadmap, giving you a more holistic view of the Android community and how you can progress as a developer.
+Bu çok parçalı dizide, Android Developer Roadmap 2022'yi takip ederek Android development ekosistemi hakkında her şeyi öğrenecek ve siz de Android topluluğunun daha bütünsel bir görünümünü ve bir geliştirici olarak nasıl ilerleyebileceğinizi anlayacaksınız.
 
 - **[The 2022 Android Developer Roadmap: Part 1](https://getstream.io/blog/android-developer-roadmap/)**
 - **[The 2022 Android Developer Roadmap: Part 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
 
-If you'd like to get notified as we release future posts, join the **[watchers](https://github.com/skydoves/android-developer-roadmap/watchers)** on GitHub or follow **[Stream](https://twitter.com/getstream_io)** on Twitter.
+Gelecekteki postları yayınladığımızda haberdar olmak istiyorsanız, GitHub'daki **[watchers](https://github.com/skydoves/android-developer-roadmap/watchers)** katılın veya Twitter'da **[Stream](https://twitter.com/getstream_io)**'i takip edin.
 
 ## Demo Uygulaması
 
@@ -50,6 +50,7 @@ Bu proje, [Android Developer Roadmap 2020](https://github.com/mobile-roadmap/and
 ## Bu Projeyi Faydalı Buldunuz Mu? ❤️
 
 __[stargazers](https://github.com/skydoves/android-developer-roadmap/stargazers)__'a katılarak bu repoya destek olun. ⭐
+ve yeni içerikler için beni [takip edin](https://github.com/skydoves)! 🤩
 
 ## Lisans
 ```
