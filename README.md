@@ -32,6 +32,7 @@ In this multipart series, you'll learn all about the Android development ecosyst
 
 - **[The 2022 Android Developer Roadmap: Part 1](https://getstream.io/blog/android-developer-roadmap/)**
 - **[The 2022 Android Developer Roadmap: Part 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
+- **[The 2022 Android Developer Roadmap: Part 3](https://getstream.io/blog/android-developer-roadmap-part-3/)**
 
 If you'd like to get notified as we release future posts, join the **[watchers](https://github.com/skydoves/android-developer-roadmap/watchers)** on GitHub or follow **[Stream](https://twitter.com/getstream_io)** on Twitter. You can also follow the __[author](https://github.com/skydoves)__ of this repository on GitHub.
 

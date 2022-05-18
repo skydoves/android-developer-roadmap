@@ -32,6 +32,7 @@ Bu çok parçalı dizide, Android Developer Roadmap 2022'yi takip ederek Android
 
 - **[The 2022 Android Developer Roadmap: Part 1](https://getstream.io/blog/android-developer-roadmap/)**
 - **[The 2022 Android Developer Roadmap: Part 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
+- **[The 2022 Android Developer Roadmap: Part 3](https://getstream.io/blog/android-developer-roadmap-part-3/)**
 
 Gelecekteki postları yayınladığımızda haberdar olmak istiyorsanız, GitHub'daki **[watchers](https://github.com/skydoves/android-developer-roadmap/watchers)** katılın veya Twitter'da **[Stream](https://twitter.com/getstream_io)**'i takip edin.
 

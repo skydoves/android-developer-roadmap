@@ -32,6 +32,7 @@ In dieser mehrteiligen Serie werden Sie alles über das Android Ökosystem lerne
 
 - **[Die Android Developer Roadmap 2022: Teil 1](https://getstream.io/blog/android-developer-roadmap/)**
 - **[Die Android Developer Roadmap 2022: Teil 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
+- **[Die Android Developer Roadmap 2022: Teil 3](https://getstream.io/blog/android-developer-roadmap-part-3/)**
 
 Wenn Sie zukünftig benachrichtigt werden wollen, sobald wir neue Beiträge veröffentlicht werden, treten Sie den **[Watchern](https://github.com/skydoves/android-developer-roadmap/watchers)** auf GitHub bei oder folgen Sie **[Stream](https://twitter.com/getstream_io)** auf Twitter.
 
