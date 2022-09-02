@@ -18,11 +18,11 @@ Each node indicates concepts of Android systems, Android SDK, and generally used
 
 In addition, **you don't need to learn everything from this roadmap**. So we recommend only reading the sections that would be helpful to you.
 
-## Roadmap
+## 🗺 Roadmap
 
 ![Roadmap](/images/android_developer_roadmap.png)
 
-## Articles
+## ✍️ Articles
 
 <a href="https://getstream.io/blog/android-developer-roadmap/"><img src="images/article.png" /></a><br>
 
@@ -36,15 +36,23 @@ In this multipart series, you'll learn all about the Android development ecosyst
 
 If you'd like to get notified as we release future posts, join the **[watchers](https://github.com/skydoves/android-developer-roadmap/watchers)** on GitHub or follow **[Stream](https://twitter.com/getstream_io)** on Twitter. You can also follow the __[author](https://github.com/skydoves)__ of this repository on GitHub.
 
-## Demo Application
+<a href="https://getstream.io/tutorials/android-chat?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=2022AndroidDeveloperRoadmap&utm_term=DevRelOss">
+<img src="https://user-images.githubusercontent.com/24237865/138428440-b92e5fb7-89f8-41aa-96b1-71a5486c5849.png" align="right" width="12%"/>
+</a>
+
+## ⛴ Stream
+
+If you're interested in building a robust chat feature, which is an easy-to-use, open-sourced, Kotlin-first, actively maintained, check out the [Stream Chat for Android](https://getstream.io/tutorials/android-chat). If you're interested in building chat features with Jetpack Compose, you can also check out [Stream Chat for Compose](https://getstream.io/chat/compose/tutorial/), which provides a lot of Jetpack Compose components.
+
+## 📱 Demo Application
 
 This project includes a demo project which shows the roadmap image. You can download the latest APK on the [Releases](https://github.com/skydoves/android-developer-roadmap/releases).
 
-## Contribution
+## 🤝 Contribution
 
 This project doesn't cover everything, so if something is missing or should be fixed, anyone can contribute to this project by following the [CONTRIBUTING](CONTRIBUTING.md) guides.
 
-## Inspiration
+## 💡 Inspiration
 
 This project is inspired by [Android Developer Roadmap 2020](https://github.com/mobile-roadmap/android-developer-roadmap). So thank you for the authors providing the roadmap ideas. Also, you can learn a lot of knowledge from the repository.
 
