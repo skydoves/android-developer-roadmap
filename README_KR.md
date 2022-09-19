@@ -27,9 +27,10 @@
 
 로드맵과 관련된 포스트는 총 5부로 구성되어 있으며, 2022년 안드로이드 개발자 로드맵에 따라 안드로이드 개발 생태계에 대한 내용을 학습하실 수 있습니다. 또한 안드로이드 커뮤니티에 대한 전체적인 시각과 개발자로서 어떻게 발전할 수 있는지 살펴볼 수 있습니다.
 
-- **[The 2022 Android Developer Roadmap: Part 1](https://getstream.io/blog/android-developer-roadmap/)**
-- **[The 2022 Android Developer Roadmap: Part 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
-- **[The 2022 Android Developer Roadmap: Part 3](https://getstream.io/blog/android-developer-roadmap-part-3/)**
+- **[The Android Platform: The 2022 Android Developer Roadmap – Part 1](https://getstream.io/blog/android-developer-roadmap/)**
+- **[App Components: The Android Developer Roadmap – Part 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
+- **[App Navigation and Jetpack: The Android Developer Roadmap – Part 3](https://getstream.io/blog/android-developer-roadmap-part-3/)**
+- **[Design Patterns and Architecture: The Android Developer Roadmap – Part 4](https://getstream.io/blog/design-patterns-and-architecture-the-android-developer-roadmap-part-4/)**
 
 추가적인 포스트는 **[Stream Blog](https://getstream.io/blog/topic/engineering/android/)** 에 지속적으로 업로드될 예정입니다. 또한, 다음 포스트에 대한 알림을 위해 이 리파지토리의 __[작성자](https://github.com/skydoves)__ 를 팔로우 하실 수도 있습니다.
 

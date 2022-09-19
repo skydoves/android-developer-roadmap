@@ -30,9 +30,10 @@ Android Developer Roadmap 2022, mevcut Android ekosistemini kapsamlı bir şekil
 
 Bu çok parçalı dizide, Android Developer Roadmap 2022'yi takip ederek Android development ekosistemi hakkında her şeyi öğrenecek ve siz de Android topluluğunun daha bütünsel bir görünümünü ve bir geliştirici olarak nasıl ilerleyebileceğinizi anlayacaksınız.
 
-- **[The 2022 Android Developer Roadmap: Part 1](https://getstream.io/blog/android-developer-roadmap/)**
-- **[The 2022 Android Developer Roadmap: Part 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
-- **[The 2022 Android Developer Roadmap: Part 3](https://getstream.io/blog/android-developer-roadmap-part-3/)**
+- **[The Android Platform: The 2022 Android Developer Roadmap – Part 1](https://getstream.io/blog/android-developer-roadmap/)**
+- **[App Components: The Android Developer Roadmap – Part 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
+- **[App Navigation and Jetpack: The Android Developer Roadmap – Part 3](https://getstream.io/blog/android-developer-roadmap-part-3/)**
+- **[Design Patterns and Architecture: The Android Developer Roadmap – Part 4](https://getstream.io/blog/design-patterns-and-architecture-the-android-developer-roadmap-part-4/)**
 
 Gelecekteki postları yayınladığımızda haberdar olmak istiyorsanız, GitHub'daki **[watchers](https://github.com/skydoves/android-developer-roadmap/watchers)** katılın veya Twitter'da **[Stream](https://twitter.com/getstream_io)**'i takip edin.
 

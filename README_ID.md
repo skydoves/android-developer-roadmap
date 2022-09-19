@@ -30,9 +30,10 @@ Android Developer Roadmap 2022 didesain untuk memberikan pemahaman yang komprehe
 
 Dalam seri multi-bagian ini, kamu akan mempelajari semua tentang ekosistem pengembangan Android mengikuti Android Developer Roadmap 2022 ini. Roadmap ini akan memberikanmu pandangan yang lebih holistik tentang komunitas Android dan bagaimana kamu bisa berproses sebagai developer.
 
-- **[Android Developer Roadmap 2022: Bagian 1](https://getstream.io/blog/android-developer-roadmap/)**
-- **[Android Developer Roadmap 2022: Bagian 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
-- **[Android Developer Roadmap 2022: Bagian 3](https://getstream.io/blog/android-developer-roadmap-part-3/)**
+- **[The Android Platform: The 2022 Android Developer Roadmap – Part 1](https://getstream.io/blog/android-developer-roadmap/)**
+- **[App Components: The Android Developer Roadmap – Part 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
+- **[App Navigation and Jetpack: The Android Developer Roadmap – Part 3](https://getstream.io/blog/android-developer-roadmap-part-3/)**
+- **[Design Patterns and Architecture: The Android Developer Roadmap – Part 4](https://getstream.io/blog/design-patterns-and-architecture-the-android-developer-roadmap-part-4/)**
 
 Jika kamu ingin mendapatkan notifikasi saat kami merilis postingan berikutnya, bergabung dengan **[watchers](https://github.com/skydoves/android-developer-roadmap/watchers)** di GitHub atau follow **[Stream](https://twitter.com/getstream_io)** di Twitter. Kamu juga bisa follow __[author](https://github.com/skydoves)__ dari repository ini.
 

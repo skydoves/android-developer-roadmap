@@ -29,9 +29,10 @@ La feuille de route du développeur Android 2022 est conçue pour vous donner un
 
 Dans cette série en plusieurs parties, vous apprendrez tout sur l'écosystème de développement Android en suivant notre Feuille de route du développeur Android 2022, ce qui vous donnera une vision plus globale de la communauté Android et de la façon dont vous pouvez progresser en tant que développeur.
 
-- **[La feuille de route 2022 pour les développeurs Android : Partie 1](https://getstream.io/blog/android-developer-roadmap/)**
-- **[Feuille de route 2022 pour les développeurs Android : Partie 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
-- **[Feuille de route 2022 pour les développeurs Android : Partie 3](https://getstream.io/blog/android-developer-roadmap-part-3/)**
+- **[The Android Platform: The 2022 Android Developer Roadmap – Part 1](https://getstream.io/blog/android-developer-roadmap/)**
+- **[App Components: The Android Developer Roadmap – Part 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
+- **[App Navigation and Jetpack: The Android Developer Roadmap – Part 3](https://getstream.io/blog/android-developer-roadmap-part-3/)**
+- **[Design Patterns and Architecture: The Android Developer Roadmap – Part 4](https://getstream.io/blog/design-patterns-and-architecture-the-android-developer-roadmap-part-4/)**
 
 Si vous souhaitez être informé de la publication des prochains articles, rejoignez les **[observateurs](https://github.com/skydoves/android-developer-roadmap/watchers)** sur GitHub ou suivez **[Stream](https://twitter.com/getstream_io)** sur Twitter. Vous pouvez également suivre __[l'auteur](https://github.com/skydoves)__ de ce dépôt sur GitHub.
 

@@ -31,9 +31,10 @@ Die Android Developer Roadmap 2022 wurde erstellt um Ihnen ein umfassendes Verst
 
 In dieser mehrteiligen Serie werden Sie alles über das Android Ökosystem lernen indem Sie der Android Developer Roadmap 2022 folgen, die Ihnen eine ganzheitliche Sicht der Android Community gibt und Ihnen zeigt wie Sie als Entwickler Fortschritte erzielen können.
 
-- **[Die Android Developer Roadmap 2022: Teil 1](https://getstream.io/blog/android-developer-roadmap/)**
-- **[Die Android Developer Roadmap 2022: Teil 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
-- **[Die Android Developer Roadmap 2022: Teil 3](https://getstream.io/blog/android-developer-roadmap-part-3/)**
+- **[The Android Platform: The 2022 Android Developer Roadmap – Part 1](https://getstream.io/blog/android-developer-roadmap/)**
+- **[App Components: The Android Developer Roadmap – Part 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
+- **[App Navigation and Jetpack: The Android Developer Roadmap – Part 3](https://getstream.io/blog/android-developer-roadmap-part-3/)**
+- **[Design Patterns and Architecture: The Android Developer Roadmap – Part 4](https://getstream.io/blog/design-patterns-and-architecture-the-android-developer-roadmap-part-4/)**
 
 Wenn Sie zukünftig benachrichtigt werden wollen, sobald wir neue Beiträge veröffentlicht werden, treten Sie den **[Watchern](https://github.com/skydoves/android-developer-roadmap/watchers)** auf GitHub bei oder folgen Sie **[Stream](https://twitter.com/getstream_io)** auf Twitter.
 
