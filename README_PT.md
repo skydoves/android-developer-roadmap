@@ -12,30 +12,30 @@
 </p>
 
 
-Android Developer Roadmap 2022 suggests learning paths to understanding Android development. You can read the roadmap following the line path in the middle of the map. <br>
+O roteiro do Desenvolvedor Android 2022, sugere caminhos de aprendizagem para compreender o desenvolvimento Android. Você pode ler o roteiro seguindo a linha central. <br>
 
-Each node indicates concepts of Android systems, Android SDK, and generally used libraries. It would be helpful to refer to the [Android Developers Reference](https://developer.android.com/reference) or GitHub for the specific terminologies. <br>
+Cada nó indica conceitos do ecossistema Android, Android SDK, e bibliotecas geralmente usadas. Seria ideal consultar a documentação em [Android Developers Reference](https://developer.android.com/reference) ou o GitHub para terminologias específicas. <br>
 
-In addition, **you don't need to learn everything from this roadmap**. So we recommend only reading the sections that would be helpful to you.
+Além disso, **você não precisa aprender tudo deste roteiro**. Portanto, recomendamos a leitura apenas das seções que sejam úteis para você.
 
-## 🗺 Roadmap
+## 🗺 Roteiro
 
-![Roadmap](/images/android_developer_roadmap.png)
+![Roteiro](/images/android_developer_roadmap.png)
 
-## ✍️ Articles
+## ✍️ Artigos
 
 <a href="https://getstream.io/blog/android-developer-roadmap/"><img src="images/article.png" /></a><br>
 
-The 2022 Android Developer Roadmap is designed to give you a comprehensive understanding of the current Android ecosystem and provides suggested learning paths along the way to help you grasp the concepts.<br>
+O roteiro do Desenvolvedor Android 2022, foi desenvolvido para lhe dar uma compreensão abrangente do ecossistema Android atual e fornecer sugestões de caminhos de aprendizagem ao longo da jornada para ajudá-lo a entender os conceitos.<br>
 
-In this multipart series, you'll learn all about the Android development ecosystem following our 2022 Android Developer Roadmap, giving you a more holistic view of the Android community and how you can progress as a developer.
+Nesta série de várias partes, você aprenderá tudo sobre o ecossistema de desenvolvimento Android seguindo nosso roteiro do Desenvolvedor Android 2022, que oferece uma visão mais holística da comunidade Android e de como você pode progredir como desenvolvedor.
 
 - **[The Android Platform: The 2022 Android Developer Roadmap – Part 1](https://getstream.io/blog/android-developer-roadmap/)**
 - **[App Components: The Android Developer Roadmap – Part 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
 - **[App Navigation and Jetpack: The Android Developer Roadmap – Part 3](https://getstream.io/blog/android-developer-roadmap-part-3/)**
 - **[Design Patterns and Architecture: The Android Developer Roadmap – Part 4](https://getstream.io/blog/design-patterns-and-architecture-the-android-developer-roadmap-part-4/)**
 
-If you'd like to get notified as we release future posts, join the **[watchers](https://github.com/skydoves/android-developer-roadmap/watchers)** on GitHub or follow **[Stream](https://twitter.com/getstream_io)** on Twitter. You can also follow the __[author](https://github.com/skydoves)__ of this repository on GitHub.
+Se você quiser ser notificado assim que lançarmos postagens futuras, junte-se ao **[watchers](https://github.com/skydoves/android-developer-roadmap/watchers)** no GitHub ou siga **[Stream](https://twitter.com/getstream_io)** no Twitter. Você também pode seguir o__[autor](https://github.com/skydoves)__ deste repositório no GitHub.
 
 <a href="https://getstream.io/tutorials/android-chat?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=2022AndroidDeveloperRoadmap&utm_term=DevRelOss">
 <img src="https://user-images.githubusercontent.com/24237865/138428440-b92e5fb7-89f8-41aa-96b1-71a5486c5849.png" align="right" width="12%"/>
@@ -43,26 +43,26 @@ If you'd like to get notified as we release future posts, join the **[watchers](
 
 ## ⛴ Stream
 
-If you're interested in building a robust chat feature, which is an easy-to-use, open-sourced, Kotlin-first, actively maintained, check out the [Stream Chat for Android](https://getstream.io/tutorials/android-chat). If you're interested in building chat features with Jetpack Compose, you can also check out [Stream Chat for Compose](https://getstream.io/chat/compose/tutorial/), which provides a lot of Jetpack Compose components.
+Se você estiver interessado em criar um recurso de bate-papo robusto, que seja fácil de usar, de código aberto, Kotlin-first, mantido ativamente, confira o [Stream Chat for Android](https://getstream.io/tutorials/android-chat). Se estiver interessado em criar recursos de bate-papo com o Jetpack Compose, você também pode conferir o [Stream Chat for Compose](https://getstream.io/chat/compose/tutorial/), que fornece muitos componentes do Jetpack Compose.
 
-## 📱 Demo Application
+## 📱 Aplicação de Demonstração
 
-This project includes a demo project which shows the roadmap image. You can download the latest APK on the [Releases](https://github.com/skydoves/android-developer-roadmap/releases).
+Este projeto inclui um projeto de demonstração que  exibe a imagem do roteiro. Você pode baixar o APK mais recente em [Releases](https://github.com/skydoves/android-developer-roadmap/releases).
 
-## 🤝 Contribution
+## 🤝 Contribuições
 
-This project doesn't cover everything, so if something is missing or should be fixed, anyone can contribute to this project by following the [CONTRIBUTING](CONTRIBUTING.md) guides.
+Este projeto não cobre tudo, portanto, se algo estiver faltando ou precisar ser corrigido, qualquer pessoa poderá contribuir com este projeto seguindo o [Guia de contribuições](CONTRIBUTING.md).
 
-## 💡 Inspiration
+## 💡 Inspiração
 
-This project is inspired by [Android Developer Roadmap 2020](https://github.com/mobile-roadmap/android-developer-roadmap). So thank you for the authors providing the roadmap ideas. Also, you can learn a lot of knowledge from the repository.
+Este projeto é inspirado por [Android Developer Roadmap 2020](https://github.com/mobile-roadmap/android-developer-roadmap). Portanto, obrigado aos autores que forneceram as ideias do roteiro. Além disso, você pode obter muito conhecimento do repositório.
 
-## Find this project useful? :heart:
+## Acha este projeto útil? :heart:
 
-Support it by joining __[stargazers](https://github.com/skydoves/android-developer-roadmap/stargazers)__ for this repository. :star: <br>
-And __[follow](https://github.com/skydoves)__ me for my next creations! 🤩
+Apoie este repositório com __[stargazers](https://github.com/skydoves/android-developer-roadmap/stargazers)__ :star: <br>
+E __[siga-me](https://github.com/skydoves)__ para ver minhas novas criações! 🤩
 
-## License
+## Licença
 ```
 Copyright 2021 Stream.IO, Inc. All Rights Reserved.
 
