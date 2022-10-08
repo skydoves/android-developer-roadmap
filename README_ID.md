@@ -12,7 +12,7 @@
 </p>
 
 
-Android Developer Roadmap 2022 mengemukakan jalur pembelajaran untuk memahami pengembangan aplikasi Android. Kamu dapat membaca roadmap dengan mengikuti jalur garis di tengah peta. <br>
+Android Developer Roadmap 2022 mengusulkan jalur pembelajaran untuk memahami pengembangan aplikasi Android. Kamu dapat membaca roadmap dengan mengikuti jalur garis di tengah peta. <br>
 
 Setiap simpul menunjukkan konsep sistem Android, Android SDK, dan pustaka-pustaka yang umum digunakan. Merujuk ke [Referensi Android Developer](https://developer.android.com/reference) atau GitHub akan sangat membantu untuk memahami terminologi tertentu. <br>
 
@@ -28,7 +28,7 @@ Sebagai tambahan, **anda tidak perlu mempelajari semua yang ada di roadmap ini**
 
 Android Developer Roadmap 2022 didesain untuk memberikan pemahaman yang komprehensif dari ekosistem Android yang ada saat ini dan menyediakan jalur pembelajaran untuk membantumu memahami konsepnya.<br>
 
-Dalam seri multi-bagian ini, kamu akan mempelajari semua tentang ekosistem pengembangan Android mengikuti Android Developer Roadmap 2022 ini. Roadmap ini akan memberikanmu pandangan yang lebih holistik tentang komunitas Android dan bagaimana kamu bisa berproses sebagai developer.
+Dalam seri yang terbagi menjadi beberapa bagian ini, kamu akan mempelajari semua tentang ekosistem pengembangan Android mengikuti Android Developer Roadmap 2022 ini. Roadmap ini akan memberikanmu pandangan yang lebih holistik tentang komunitas Android dan bagaimana kamu bisa berproses sebagai developer.
 
 - **[The Android Platform: The 2022 Android Developer Roadmap – Part 1](https://getstream.io/blog/android-developer-roadmap/)**
 - **[App Components: The Android Developer Roadmap – Part 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
@@ -43,7 +43,7 @@ Proyek ini mencakup proyek demo seperti yang ditunjukkan pada gambar roadmap. Ka
 
 ## Kontribusi
 
-Proyek ini tidak mencakup semuanya, jadi apabila ada sesuatu yang kurang atau perlu diperbaiki, siapapun dapat berkontribusi ke proyek ini dengan mengikuti panduan[CONTRIBUTING](CONTRIBUTING.md) ini.
+Proyek ini tidak mencakup semuanya, jadi apabila ada sesuatu yang kurang atau perlu diperbaiki, siapapun dapat berkontribusi ke proyek ini dengan mengikuti panduan [CONTRIBUTING](CONTRIBUTING.md) ini.
 
 ## Inspirasi
 
