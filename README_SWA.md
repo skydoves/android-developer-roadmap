@@ -8,7 +8,7 @@
   <a href="https://github.com/skydoves"><img alt="Profile" src="https://skydoves.github.io/badges/skydoves.svg"/></a>
 </p>
 <p align="center">
-<a href="/README_AR.md" target="_blank"> Arabic </a> | <a href="/README.md" target="_blank"> English </a> | <a href="/README_KR.md" target="_blank"> 한국어 </a> | <a href="/README_DE.md" target="_blank"> Deutsch </a>| <a href="/README_ES.md" target="_blank"> Español</a> | <a href="/README_TR.md" target="_blank"> Turkish</a> | <a href="/README_ID.md" target="_blank"> Bahasa Indonesia</a> | <a href="/README_FR.md" target="_blank"> Français</a> | <a href="/README_PT.md" target="_blank"> Portuguese</a> | <a href="/README_KHM.md" target="_blank">ភាសាខ្មែរ</a> | <a href="/README_VI.md" target="_blank">Vietnamese</a> | <a href="/README_CN.md" target="_blank">中文</a>
+<a href="/README_AR.md" target="_blank"> Arabic </a> | <a href="/README.md" target="_blank"> English </a> | <a href="/README_KR.md" target="_blank"> 한국어 </a> | <a href="/README_DE.md" target="_blank"> Deutsch </a>| <a href="/README_ES.md" target="_blank"> Español</a> | <a href="/README_TR.md" target="_blank"> Turkish</a> | <a href="/README_ID.md" target="_blank"> Bahasa Indonesia</a> | <a href="/README_FR.md" target="_blank"> Français</a> | <a href="/README_PT.md" target="_blank"> Portuguese</a> | <a href="/README_KHM.md" target="_blank">ភាសាខ្មែរ</a> | <a href="/README_VI.md" target="_blank">Vietnamese</a> | <a href="/README_CN.md" target="_blank">中文</a> | <a href="/README_SWA.md" target="_blank">Swahili</a>
 </p>
 
 
@@ -17,11 +17,11 @@ Ramani ya Barabara ya Wasanidi Programu wa Android 2022 inapendekeza njia za kuj
 Kila nodi huonyesha dhana za mifumo ya Android, Android SDK, na maktaba zinazotumika kwa ujumla. Ingefaa kurejelea [Marejeleo ya Wasanidi Programu wa Android](https://developer.android.com/reference) au GitHub kwa istilahi mahususi. <br>
 
 Kwa kuongeza, **huhitaji kujifunza kila kitu kutoka kwa ramani hii ya barabara**. Kwa hivyo, tunapendekeza usome tu sehemu ambazo zitakusaidia.
-## 🗺 Ramani ya barabara
+##  Ramani ya barabara
 
 ![Ramani](/images/android_developer_roadmap.png)
 
-## ✍️ Makala
+##  Makala
 
 <a href="https://getstream.io/blog/android-developer-roadmap/"><img src="images/article.png" /></a><br>
 
@@ -40,25 +40,25 @@ Ikiwa ungependa kuarifiwa tunapochapisha machapisho yajayo, jiunge na **[watcher
 <img src="https://user-images.githubusercontent.com/24237865/138428440-b92e5fb7-89f8-41aa-96b1-71a5486c5849.png" align="right" width="12%"/>
 </a>
 
-## ⛴ Tiririsha
+##  Tiririsha
 
 Ikiwa ungependa kuunda kipengele thabiti cha gumzo, ambacho ni rahisi kutumia, chanzo huria, Kotlin-kwanza, kinachodumishwa kikamilifu, angalia [Gumzo la Tiririsha kwa Android](https://getstream.io/ mafunzo/android-chat). Iwapo ungependa kuunda vipengele vya gumzo ukitumia Jetpack Compose, unaweza pia kuangalia [Tiririsha Gumzo la Kutunga](https://getstream.io/chat/compose/tutorial/), ambayo hutoa vipengele vingi vya Jetpack Compose.
 
-## 📱 Ombi la Onyesho
+##  Ombi la Onyesho
 
 Mradi huu unajumuisha mradi wa onyesho ambao unaonyesha picha ya ramani ya barabara. Unaweza kupakua APK ya hivi punde kwenye [Matoleo](https://github.com/skydoves/android-developer-roadmap/releases).
 
-## 🤝 Mchango
+##  Mchango
 
 Mradi huu haujumuishi kila kitu, kwa hivyo ikiwa kitu kinakosekana au kinapaswa kurekebishwa, mtu yeyote anaweza kuchangia mradi huu kwa kufuata miongozo ya [KUCHANGIA](CHANGIA.md).
 
-## 💡 Msukumo
+##  Msukumo
 
 Mradi huu umetokana na [Ramani ya Msanidi Programu wa Android 2020](https://github.com/mobile-roadmap/android-developer-roadmap). Kwa hivyo, asante kwa waandishi kutoa maoni ya ramani ya barabara. Pia, unaweza kujifunza maarifa mengi kutoka kwa hazina.
 
-## Je, ungependa kupata mradi huu kuwa muhimu? :moyo:
+## Je, ungependa kupata mradi huu kuwa muhimu? ❤️
 
-Isaidie kwa kujiunga na __[stargazers](https://github.com/skydoves/android-developer-roadmap/stargazers)__ kwa hazina hii. :nyota: <br>
+Isaidie kwa kujiunga na __[stargazers](https://github.com/skydoves/android-developer-roadmap/stargazers)__ kwa hazina hii. ⭐ <br>
 Na __[fuata](https://github.com/skydoves)__ mimi kwa kazi zangu zinazofuata! 🤩
 
 # #Leseni
