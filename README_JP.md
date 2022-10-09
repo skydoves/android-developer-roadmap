@@ -55,11 +55,11 @@ Jetpack Composeを使用したい場合は，こちらもチェック[Stream Cha
 
 ## 🤝 コントリビューション
 
-本プロジェクトでは全てをカバーしきれていないため、不足な点または修正すべき点が見つかった際は、[CONTRIBUTING](CONTRIBUTING.md)に従ってのコントリビュートをお待ちしております。
+本プロジェクトでは全てをカバーしきれていないため、不足な点または修正点が見つかった際は、[CONTRIBUTING](CONTRIBUTING.md)に準拠したコントリビュートをお待ちしております。
 
 ## 💡 インスピレーション
 
-本プロジェクトは[Android Developer Roadmap 2020](https://github.com/mobile-roadmap/android-developer-roadmap) からインスパイアを受けています。本プロジェクトロードマップ作成において、多くのアイデアと知識を著者に提供いただけたこと、感謝申し上げます。
+本プロジェクトは[Android Developer Roadmap 2020](https://github.com/mobile-roadmap/android-developer-roadmap) からインスパイアされています。本プロジェクトロードマップ作成において、多くのアイデアと知識を著者から提供いただけたこと、感謝申し上げます。
 
 ## 役に立ちましたか? :heart:
 
