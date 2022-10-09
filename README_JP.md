@@ -64,7 +64,7 @@ Jetpack Composeを使用したい場合は，こちらもチェック[Stream Cha
 ## 役に立ちましたか? :heart:
 
 __[stargazers](https://github.com/skydoves/android-developer-roadmap/stargazers)__ に加入:star:<br>
-または__[フォロー](https://github.com/skydoves)__ していただけると次の創作の励みになります🤩
+または __[フォロー](https://github.com/skydoves)__ していただけると次の創作の励みになります🤩
 
 ## License
 ```
