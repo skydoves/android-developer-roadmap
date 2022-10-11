@@ -20,6 +20,15 @@ Android Developer Roadmap 2022 ផ្តល់នូវគំរោងការ�
 
 ## 🗺 គំរោងការសិក្សា
 
+<details>
+  <summary>Dark mode Android Developer Roadmap</summary>
+
+![Roadmap](images/android_developer_roadmap_dark.png)
+
+</details>
+
+<br>
+
 ![feuille de route](https://raw.githubusercontent.com/skydoves/android-developer-roadmap/main/images/android_developer_roadmap.png)
 
 ## ✍️ អត្ថបទ

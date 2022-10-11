@@ -11,7 +11,6 @@
 <a href="/README_AR.md" target="_blank"> Arabic </a> | <a href="/README.md" target="_blank"> English </a> | <a href="/README_KR.md" target="_blank"> 한국어 </a> | <a href="/README_DE.md" target="_blank"> Deutsch </a>| <a href="/README_ES.md" target="_blank"> Español</a> | <a href="/README_TR.md" target="_blank"> Turkish</a> | <a href="/README_ID.md" target="_blank"> Bahasa Indonesia</a> | <a href="/README_FR.md" target="_blank"> Français</a> | <a href="/README_PT.md" target="_blank"> Portuguese</a> | <a href="/README_KHM.md" target="_blank">ភាសាខ្មែរ</a> | <a href="/README_VI.md" target="_blank">Vietnamese</a> | <a href="/README_CN.md" target="_blank">中文</a> | <a href="/README_JP.md" target="_blank">日本語</a>
 </p>
 
-
 Android Developer Roadmap 2022 suggests learning paths to understanding Android development. You can read the roadmap following the line path in the middle of the map. <br>
 
 Each node indicates concepts of Android systems, Android SDK, and generally used libraries. It would be helpful to refer to the [Android Developers Reference](https://developer.android.com/reference) or GitHub for the specific terminologies. <br>
@@ -20,7 +19,16 @@ In addition, **you don't need to learn everything from this roadmap**. So we rec
 
 ## 🗺 Roadmap
 
-![Roadmap](/images/android_developer_roadmap.png)
+<details>
+  <summary>Dark mode Android Developer Roadmap</summary>
+
+![Roadmap](images/android_developer_roadmap_dark.png)
+
+</details>
+
+<br>
+
+![Roadmap](images/android_developer_roadmap.png)
 
 ## ✍️ Articles
 

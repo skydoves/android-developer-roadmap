@@ -22,6 +22,15 @@ Android Developer Roadmap 2022 建议了学习了解 Android 开发的学习路�
 
 ## 🗺 路线图
 
+<details>
+  <summary>Dark mode Android Developer Roadmap</summary>
+
+![Roadmap](images/android_developer_roadmap_dark.png)
+
+</details>
+
+<br>
+
 ![Roadmap](/images/android_developer_roadmap.png)
 
 ## ✍️ 文章

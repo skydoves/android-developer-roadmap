@@ -20,6 +20,15 @@ Ngoài ra, **bạn không cần phải học mọi thứ từ lộ trình này**
 
 ## 🗺 Lộ trình
 
+<details>
+  <summary>Dark mode Android Developer Roadmap</summary>
+
+![Roadmap](images/android_developer_roadmap_dark.png)
+
+</details>
+
+<br>
+
 ![Roadmap](/images/android_developer_roadmap.png)
 
 ## ✍️ Các bài báo

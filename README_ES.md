@@ -21,6 +21,15 @@ Adicionalmente, **no necesitas aprender todo lo que se encuentra en este mapa**.
 
 ## Roadmap
 
+<details>
+  <summary>Dark mode Android Developer Roadmap</summary>
+
+![Roadmap](images/android_developer_roadmap_dark.png)
+
+</details>
+
+<br>
+
 ![Roadmap](/images/android_developer_roadmap.png)
 
 ## Articles

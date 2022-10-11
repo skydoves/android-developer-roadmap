@@ -18,9 +18,18 @@
 
 아울러 로드맵은 안드로이드 개발에 관한 모든 것을 다루지 않으며, 로드맵의 내용 전부를 학습하실 필요도 없습니다. 따라서 학습이 필요한 부분만 참조하시는 것을 권장해 드립니다.
 
-## Roadmap
+## 🗺 Roadmap
 
-![Roadmap](/images/android_developer_roadmap.png)
+<details>
+  <summary>다크모드로 안드로이드 로드맵 보기</summary>
+
+![Roadmap](images/android_developer_roadmap_dark.png)
+
+</details>
+
+<br>
+
+![Roadmap](images/android_developer_roadmap.png)
 
 ## Articles
 
