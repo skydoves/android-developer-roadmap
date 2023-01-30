@@ -30,6 +30,262 @@ In addition, **you don't need to learn everything from this roadmap**. So we rec
 
 ![Roadmap](images/android_developer_roadmap.png)
 
+
+  ##  Content list 
+- - [ ]   **Application Fundamentals**  
+  - - [ ]    Languages  
+      - - [ ]    Kotlin  
+      - - [ ]    Java  
+      - - [ ]    C++ (JNI)  
+  - - [ ]    Android Package  
+      - - [ ]    APK  
+      - - [ ]    AAB  
+- - [ ]    **Android Operating System**  
+  - - [ ]    Multi-User Linux  
+  - - [ ]    File Permissions  
+  - - [ ]    Resource Isolations  
+  - - [ ]    Process Management  
+- - [ ]    **Android Platform Architecture**  
+  - - [ ]    The Linux Kernel  
+  - - [ ]    Hardware Abstraction Layer  
+  - - [ ]    Android Runtime  
+  - - [ ]    Native Libraries  
+  - - [ ]    Java API Framework  
+  - - [ ]    System Apps  
+- - [ ]    **App Manifest**  
+  - - [ ]    Package  
+  - - [ ]    Application ID  
+- - [ ]    **App Components**  
+  - - [ ]    Activity (detailed later)  
+  - - [ ]    Service  
+  - - [ ]    Broadcast Receiver  
+  - - [ ]    Content Provider  
+  - - [ ]    Intent  
+      - - [ ]    Intent Filters  
+      - - [ ]    Explicit Intents  
+      - - [ ]    Implicit Intents  
+- - [ ]    **App Architecture**  
+- - [ ]    **App Entry Points**  
+  - - [ ]    Activities  
+      - - [ ]    Activity Lifecycles  
+      - - [ ]    Activity State Changes  
+      - - [ ]    Task and Back Stack  
+      - - [ ]    Parcelables and Bundles  
+  - - [ ]    App Shortcuts  
+- - [ ]    **App Navigation**  
+  - - [ ]    Navigation Component  
+      - - [ ]    Navigation Graph  
+      - - [ ]    Global Actions  
+      - - [ ]    Destinations  
+      - - [ ]    DeepLink  
+  - - [ ]    Fragments  
+      - - [ ]    DialogFragment  
+      - - [ ]    BottomSheetDialogFragment  
+      - - [ ]    Fragment Lifecycles  
+      - - [ ]    Fragment State Changes  
+      - - [ ]    Fragment Manager  
+      - - [ ]    Fragment Transactions  
+  - - [ ]    App Links  
+      - - [ ]    TabLayout  
+      - - [ ]    ViewPager  
+      - - [ ]    ViewPager2  
+      - - [ ]    Custom Back Navigation  
+- - [ ]    **App Startup**  
+- - [ ]    **Dependency Injection** (detailed later)  
+- - [ ]    **Architecture Components**  
+  - - [ ]    UI Layer  
+      - - [ ]    ViewBinding  
+      - - [ ]    DataBinding  
+      - - [ ]    Lifecycle  
+      - - [ ]    ViewModel  
+      - - [ ]    LiveData  
+      - - [ ]    Paging  
+  - - [ ]    Data Layer  
+      - - [ ]    Data Store  
+      - - [ ]    WorkManager  
+- - [ ]    **Design Patterns**  
+  - - [ ]    Builder Pattern  
+  - - [ ]    Factory Pattern  
+  - - [ ]    Dependency Injection  
+      - - [ ]    Dagger  
+      - - [ ]    Hilt  
+      - - [ ]    Koin  
+      - - [ ]    Kodein  
+  - - [ ]    Repository Pattern  
+  - - [ ]    Observer Pattern  
+      - - [ ]    Flow  
+      - - [ ]    RxJava/RxKotlin  
+      - - [ ]    LiveData  
+- - [ ]    **Architecture**  
+  - - [ ]    MVVM  
+  - - [ ]    MVP  
+  - - [ ]    MVI  
+  - - [ ]    MVC  
+  - - [ ]    Clean Architecture  
+- - [ ]    **Network**  
+  - - [ ]    OkHttp  
+      - - [ ]    Interceptor  
+  - - [ ]    Okio  
+  - - [ ]    Retrofit  
+  - - [ ]    Ktor  
+  - - [ ]    Volley  
+  - - [ ]    Apollo-Android  
+- - [ ]    **Image Loading**  
+  - - [ ]    Glide  
+  - - [ ]    Fresco  
+  - - [ ]    Coil  
+  - - [ ]    Picasso  
+- - [ ]    **Local Storage**  
+  - - [ ]    SQLite  
+      - - [ ]    SQLDelight  
+      - - [ ]    Room  
+  - - [ ]    DataStore  
+  - - [ ]    Realm  
+  - - [ ]    SharedPreferences  
+- - [ ]    **Asynchronous**  
+  - - [ ]    Coroutines  
+  - - [ ]    RxJava/RxKotlin  
+  - - [ ]    Thread  
+  - - [ ]    WorkManager  
+- - [ ]    **User Interface**  
+  - - [ ]    Layouts  
+      - - [ ]    ConstraintLayout  
+      - - [ ]    MotionLayout  
+      - - [ ]    LinearLayout  
+      - - [ ]    FrameLayout  
+      - - [ ]    Material  
+      - - [ ]    RecyclerView  
+  - - [ ]    Design Guides  
+      - - [ ]    Material  
+      - - [ ]    Material You  
+      - - [ ]    Neumorphism  
+  - - [ ]    Styles  
+      - - [ ]    Light Theme  
+      - - [ ]    Dark Theme  
+  - - [ ]    Message  
+      - - [ ]    Toast  
+      - - [ ]    Snackbar  
+      - - [ ]    Notification  
+  - - [ ]    Animation  
+      - - [ ]    ValueAnimator  
+      - - [ ]    ObjectAnimator  
+      - - [ ]    Lottie  
+      - - [ ]    Material Motion  
+- - [ ]    **Compose UI:**  
+  - - [ ]    Recomposition  
+      - - [ ]    Snapshot  
+  - - [ ]    State:  
+      - - [ ]    State Hoisting  
+          - - [ ]    MutableState  
+          - - [ ]    remember  
+          - - [ ]    rememberSaveable  
+  - - [ ]    Side-Effects:  
+      - - [ ]    LaunchedEffect  
+      - - [ ]    DisposableEffect  
+      - - [ ]    produceState  
+      - - [ ]    derivedStateOf  
+      - - [ ]    snapshotFlow  
+  - - [ ]    Theming:  
+      - - [ ]    Material  
+          - - [ ]    Color  
+          - - [ ]    Typography  
+          - - [ ]    Shape  
+      - - [ ]    Custom  
+          - - [ ]    Dimens  
+          - - [ ]    Factories  
+          - - [ ]    Data  
+  - - [ ]    Modifier:  
+      - - [ ]    Modifier Order  
+      - - [ ]    Chaining  
+      - - [ ]    Composed Modifier  
+  - - [ ]    Layout:  
+      - - [ ]    Column  
+      - - [ ]    Box  
+      - - [ ]    Row  
+      - - [ ]    ConstraintLayout  
+  - - [ ]    List:  
+      - - [ ]    LazyColumn  
+      - - [ ]    LazyRow  
+      - - [ ]    LazyVerticalGrid  
+      - - [ ]    LazyPagingItems  
+  - - [ ]    Image:  
+      - - [ ]    Icon  
+      - - [ ]    Image  
+          - - [ ]    coil-compose  
+          - - [ ]    Landscapist  
+  - - [ ]    Text:  
+      - - [ ]    TextField  
+      - - [ ]    OutlinedTextField  
+      - - [ ]    ClickableText  
+  - - [ ]    Graphics:  
+      - - [ ]    Surface  
+      - - [ ]    Canvas  
+  - - [ ]    Gestures:  
+      - - [ ]    Scrolling  
+      - - [ ]    Dragging  
+      - - [ ]    Swiping  
+      - - [ ]    Zooming  
+  - - [ ]    Animation:  
+      - - [ ]    AnimatedVisibility  
+      - - [ ]    AnimatedContent  
+      - - [ ]    Crossfade  
+      - - [ ]    rememberInfiniteTransition  
+      - - [ ]    animateContentSize  
+      - - [ ]    updateTransition  
+      - - [ ]    animate*AsState  
+      - - [ ]    AnimationState  
+      - - [ ]    animate  
+      - - [ ]    Animatable  
+      - - [ ]    Animation  
+  - - [ ]    CompositionLocal:  
+      - - [ ]    CompositionLocalProvider  
+      - - [ ]    compositionLocalOf  
+      - - [ ]    staticCompositionLocalOf  
+- - [ ]  **Service:**  
+  - - [ ]    Google:  
+      - - [ ]    Google Play Services  
+      - - [ ]    Google Maps  
+  - - [ ]    Firebase:  
+      - - [ ]    Authentication  
+      - - [ ]    Crashlytics  
+      - - [ ]    Remote Config  
+      - - [ ]    Cloud Messaging  
+      - - [ ]    FiresStore  
+      - - [ ]    Realtime Database  
+  - - [ ]   Advertisements:  
+ 	  - - [ ]    Google AdMob  
+	  - - [ ]    Meta Audience Network  
+	  - - [ ]    MoPub  
+ - - [ ]  **Code Analysis & Testing**:  
+	- - [ ]    Linter:  
+	  - - [ ]    Ktlint  
+	  - - [ ]    Detekt  
+	  - - [ ]    Android Lint  
+	- - [ ]    Debugging:  
+	  - - [ ]    Timber  
+	  - - [ ]    LeakCanary  
+	  - - [ ]    Stetho  
+	  - - [ ]    Chucker  
+	- - [ ]    Unit Testing:  
+	  - - [ ]    Unit Test:  
+	      - - [ ]    JUnit  
+	      - - [ ]    Kluent  
+	      - - [ ]    Mockk  
+	  - - [ ]    Android Test:  
+	      - - [ ]    Robolectric  
+	      - - [ ]    Espresso  
+	      - - [ ]    Kaspresso  
+	- - [ ]    Benchmark  
+- - [ ]  **CI/CD**:  
+  - - [ ]    GitHub Actions  
+  - - [ ]    Jenkins  
+  - - [ ]    Travis CI  
+  - - [ ]    Circle CI  
+  - - [ ]    Bitrise  
+- - [ ]  **QA & App Publishing**:  
+  - - [ ]    Firebase App Distribution  
+  - - [ ]    Google Play
+
 ## ✍️ Articles
 
 <a href="https://getstream.io/blog/android-developer-roadmap/"><img src="images/article.png" /></a><br>
@@ -56,260 +312,6 @@ If you're interested in building a robust chat feature, which is an easy-to-use,
 ## 📱 Demo Application
 
 This project includes a demo project which shows the roadmap image. You can download the latest APK on the [Releases](https://github.com/skydoves/android-developer-roadmap/releases).
-
--    Application Fundamentals
-    -     Languages
-        -     Kotlin
-        -     Java
-        -     C++ (JNI)
-    -     Android Package
-        -     APK
-        -     AAB
--     Android Operating System
-    -     Multi-User Linux
-    -     File Permissions
-    -     Resource Isolations
-    -     Process Management
--     Android Platform Architecture
-    -     The Linux Kernel
-    -     Hardware Abstraction Layer
-    -     Android Runtime
-    -     Native Libraries
-    -     Java API Framework
-    -     System Apps
--     App Manifest
-    -     Package
-    -     Application ID
--     App Components
-    -     Activity (detailed later)
-    -     Service
-    -     Broadcast Receiver
-    -     Content Provider
-    -     Intent
-        -     Intent Filters
-        -     Explicit Intents
-        -     Implicit Intents
--     App Architecture
--     App Entry Points
-    -     Activities
-        -     Activity Lifecycles
-        -     Activity State Changes
-        -     Task and Back Stack
-        -     Parcelables and Bundles
-    -     App Shortcuts
--     App Navigation
-    -     Navigation Component
-        -     Navigation Graph
-        -     Global Actions
-        -     Destinations
-        -     DeepLink
-    -     Fragments
-        -     DialogFragment
-        -     BottomSheetDialogFragment
-        -     Fragment Lifecycles
-        -     Fragment State Changes
-        -     Fragment Manager
-        -     Fragment Transactions
-    -     App Links
-        -     TabLayout
-        -     ViewPager
-        -     ViewPager2
-        -     Custom Back Navigation
--     App Startup
--     Dependency Injection (detailed later)
--     Architecture Components
-    -     UI Layer
-        -     ViewBinding
-        -     DataBinding
-        -     Lifecycle
-        -     ViewModel
-        -     LiveData
-        -     Paging
-    -     Data Layer
-        -     Data Store
-        -     WorkManager
--     Design Patterns
-    -     Builder Pattern
-    -     Factory Pattern
-    -     Dependency Injection
-        -     Dagger
-        -     Hilt
-        -     Koin
-        -     Kodein
-    -     Repository Pattern
-    -     Observer Pattern
-        -     Flow
-        -     RxJava/RxKotlin
-        -     LiveData
--     Architecture
-    -     MVVM
-    -     MVP
-    -     MVI
-    -     MVC
-    -     Clean Architecture
--     Network
-    -     OkHttp
-        -     Interceptor
-    -     Okio
-    -     Retrofit
-    -     Ktor
-    -     Volley
-    -     Apollo-Android
--     Image Loading
-    -     Glide
-    -     Fresco
-    -     Coil
-    -     Picasso
--     Local Storage
-    -     SQLite
-        -     SQLDelight
-        -     Room
-    -     DataStore
-    -     Realm
-    -     SharedPreferences
--     Asynchronous
-    -     Coroutines
-    -     RxJava/RxKotlin
-    -     Thread
-    -     WorkManager
--     User Interface
-    -     Layouts
-        -     ConstraintLayout
-        -     MotionLayout
-        -     LinearLayout
-        -     FrameLayout
-        -     Material
-        -     RecyclerView
-    -     Design Guides
-        -     Material
-        -     Material You
-        -     Neumorphism
-    -     Styles
-        -     Light Theme
-        -     Dark Theme
-    -     Message
-        -     Toast
-        -     Snackbar
-        -     Notification
-    -     Animation
-        -     ValueAnimator
-        -     ObjectAnimator
-        -     Lottie
-        -     Material Motion
--     Compose UI:
-    -     Recomposition
-        -     Snapshot
-    -     State:
-        -     State Hoisting
-            -     MutableState
-            -     remember
-            -     rememberSaveable
-    -     Side-Effects:
-        -     LaunchedEffect
-        -     DisposableEffect
-        -     produceState
-        -     derivedStateOf
-        -     snapshotFlow
-    -     Theming:
-        -     Material
-            -     Color
-            -     Typography
-            -     Shape
-        -     Custom
-            -     Dimens
-            -     Factories
-            -     Data
-    -     Modifier:
-        -     Modifier Order
-        -     Chaining
-        -     Composed Modifier
-    -     Layout:
-        -     Column
-        -     Box
-        -     Row
-        -     ConstraintLayout
-    -     List:
-        -     LazyColumn
-        -     LazyRow
-        -     LazyVerticalGrid
-        -     LazyPagingItems
-    -     Image:
-        -     Icon
-        -     Image
-            -     coil-compose
-            -     Landscapist
-    -     Text:
-        -     TextField
-        -     OutlinedTextField
-        -     ClickableText
-    -     Graphics:
-        -     Surface
-        -     Canvas
-    -     Gestures:
-        -     Scrolling
-        -     Dragging
-        -     Swiping
-        -     Zooming
-    -     Animation:
-        -     AnimatedVisibility
-        -     AnimatedContent
-        -     Crossfade
-        -     rememberInfiniteTransition
-        -     animateContentSize
-        -     updateTransition
-        -     animate*AsState
-        -     AnimationState
-        -     animate
-        -     Animatable
-        -     Animation
-    -     CompositionLocal:
-        -     CompositionLocalProvider
-        -     compositionLocalOf
-        -     staticCompositionLocalOf
--   Service:
-    -     Google:
-        -     Google Play Services
-        -     Google Maps
-    -     Firebase:
-        -     Authentication
-        -     Crashlytics
-        -     Remote Config
-        -     Cloud Messaging
-        -     FiresStore
-        -     Realtime Database
--     Advertisements:
-    -     Google AdMob
-    -     Meta Audience Network
-    -     MoPub
-  Code Analysis & Testing:
--     Linter:
-    -     Ktlint
-    -     Detekt
-    -     Android Lint
--     Debugging:
-    -     Timber
-    -     LeakCanary
-    -     Stetho
-    -     Chucker
--     Unit Testing:
-    -     Unit Test:
-        -     JUnit
-        -     Kluent
-        -     Mockk
-    -     Android Test:
-        -     Robolectric
-        -     Espresso
-        -     Kaspresso
--     Benchmark
--   CI/CD:
-    -     GitHub Actions
-    -     Jenkins
-    -     Travis CI
-    -     Circle CI
-    -     Bitrise
--   QA & App Publishing:
-    -     Firebase App Distribution
-    -     Google Play
   
 ## 🤝 Contribution
 
