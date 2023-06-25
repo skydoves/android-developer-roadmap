@@ -36,16 +36,16 @@ Adicionalmente, **no necesitas aprender todo lo que se encuentra en este mapa**.
 
 <a href="https://getstream.io/blog/android-developer-roadmap/"><img src="images/article.png" /></a><br>
 
-The 2022 Android Developer Roadmap is designed to give you a comprehensive understanding of the current Android ecosystem and provides suggested learning paths along the way to help you grasp the concepts.<br>
+El Android Developer Roadmap 2022 se ha diseñado para ofrecerte una comprensión exhaustiva del ecosistema actual de Android y proporciona rutas de aprendizaje sugeridas a lo largo del camino para ayudarte a comprender los conceptos.<br>
 
-In this multipart series, you'll learn all about the Android development ecosystem following our 2022 Android Developer Roadmap, giving you a more holistic view of the Android community and how you can progress as a developer.
+En esta serie de varias partes, aprenderás todo sobre el ecosistema de desarrollo de Android siguiendo nuestra Hoja de ruta del desarrollador de Android 2022, lo que te dará una visión más holística de la comunidad de Android y de cómo puedes progresar como desarrollador.
 
 - **[The Android Platform: The 2022 Android Developer Roadmap – Part 1](https://getstream.io/blog/android-developer-roadmap/)**
 - **[App Components: The Android Developer Roadmap – Part 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
 - **[App Navigation and Jetpack: The Android Developer Roadmap – Part 3](https://getstream.io/blog/android-developer-roadmap-part-3/)**
 - **[Design Patterns and Architecture: The Android Developer Roadmap – Part 4](https://getstream.io/blog/design-patterns-and-architecture-the-android-developer-roadmap-part-4/)**
 
-If you'd like to get notified as we release future posts, join the **[watchers](https://github.com/skydoves/android-developer-roadmap/watchers)** on GitHub or follow **[Stream](https://twitter.com/getstream_io)** on Twitter.
+Si deseas recibir notificaciones a medida que publiquemos futuros artículos, únete a los **[watchers](https://github.com/skydoves/android-developer-roadmap/watchers)** en GitHub o sigue a **[Stream](https://twitter.com/getstream_io)** en Twitter.
 
 ## Aplicación de demostración
 
