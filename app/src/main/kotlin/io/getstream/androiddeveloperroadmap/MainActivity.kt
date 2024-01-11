@@ -20,8 +20,8 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.material.MaterialTheme
-import androidx.compose.material.Surface
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Surface
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.layout.ContentScale
@@ -42,7 +42,7 @@ class MainActivity : ComponentActivity() {
     setContent {
       AndroidDeveloperRoadmapTheme {
         Surface(
-          color = MaterialTheme.colors.background
+          color = MaterialTheme.colorScheme.background
         ) {
           AndroidRoadmap()
         }
@@ -53,7 +53,7 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 private fun AndroidRoadmap() {
-  val background = MaterialTheme.colors.background
+  val background = MaterialTheme.colorScheme.background
   CoilImage(
     modifier = Modifier
       .fillMaxSize()
@@ -70,7 +70,7 @@ private fun AndroidRoadmap() {
   )
 }
 
-@Preview(showBackground = true)
+@Preview(showBackground = true, showSystemUi = true)
 @Composable
 private fun DefaultPreview() {
   AndroidDeveloperRoadmapTheme {
