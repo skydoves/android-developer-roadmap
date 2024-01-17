@@ -11,19 +11,19 @@
 <a href="/README_AR.md" target="_blank"> Arabic </a> | <a href="/README.md" target="_blank"> English </a> | <a href="/README_KR.md" target="_blank"> 한국어 </a> | <a href="/README_DE.md" target="_blank"> Deutsch </a>| <a href="/README_ES.md" target="_blank"> Español</a> | <a href="/README_TR.md" target="_blank"> Turkish</a> | <a href="/README_ID.md" target="_blank"> Bahasa Indonesia</a> | <a href="/README_FR.md" target="_blank"> Français</a> | <a href="/README_PT.md" target="_blank"> Portuguese</a> | <a href="/README_KHM.md" target="_blank">ភាសាខ្មែរ</a> | <a href="/README_VI.md" target="_blank">Vietnamese</a> | <a href="/README_CN.md" target="_blank">中文</a> | <a href="/README_JP.md" target="_blank">日本語</a> | <a href="/README_FA.md" target="_blank">فارسی</a> | <a href="/README_TH.md" target="_blank">ภาษาไทย</a>
 </p>
 
-<p dir='rtl' align='right'>خارطة الطريق مطور اندرويد 2022 مسار تعلم مقترح لفهم تطوير الأندرويد. تقدر تقرأ خارطة الطريق بأتباع مسار الخط الذي في منتصف الخريطة</p>
+<p dir='rtl' align='right'>خارطة طريق لتطوير اندرويد 2022 مسار تعلم مقترح لفهم تطوير الأندرويد. يمكنك قراءة خارطة الطريق بأتباع مسار الخط في منتصف الخريطة</p>
 
-<p dir='rtl' align='right'>كل نقطة او بداية بتشير إلى مفاهيم أنظمة الأندرويد, امدرويد SDK, والمكتبات المستخدمة بشكل عامقد يكون من المفيد الرجوع الي </p>
+<p dir='rtl' align='right'>كل نقطة او بداية تشير إلى مفاهيم أنظمة الأندرويد, اندرويد SDK, والمكتبات المستخدمة بشكل عام .قد يكون من المفيد الرجوع الي </p>
 
 [Android Developers Reference](https://developer.android.com/reference)
 <p dir='rtl' align='right'> أو GitHub للحصول علي المصطلحات المحددة.</p>
 
-<p dir='rtl' align='right'>بالإضافة إلى ذلك ، ** لست بحاجة إلى تعلم كل شيء من خريطة الطريق هذه **. لذلك نوصي بقراءة الأقسام التي قد تكون مفيدة لك فقط.</p>
+<p dir='rtl' align='right'>بالإضافة إلى ذلك ،  <b>لست بحاجة إلى تعلم كل شيء من خريطة الطريق هذه</b>. لذلك نوصي بقراءة الأقسام التي قد تكون مفيدة لك فقط.</p>
 
 ## 🗺 خارطة الطريق 
 
 <details>
-  <summary>Dark mode Android Developer Roadmap</summary>
+  <summary> الوضع اليلي لخارطة الطريق  </summary>
 
 ![Roadmap](images/android_developer_roadmap_dark.png)
 
@@ -37,9 +37,9 @@
 
 <a href="https://getstream.io/blog/android-developer-roadmap/"><img src="images/article.png" /></a><br>
 
-<p dir='rtl' align='right'>تم تصميم خريطة طريق مطور Android لعام 2022 لمنحك فهمًا شاملاً لنظام Android البيئي الحالي وتوفر مسارات تعليمية مقترحة على طول الطريق لمساعدتك على فهم المفاهيم.</p>  <br>
+<p dir='rtl' align='right'>تم تصميم خريطة طريق مطور اندرويد لعام 2022 لمنحك فهمًا شاملاً لنظام الاندرويد البيئي الحالي وتوفير مسارات تعليمية مقترحة على طول الطريق لمساعدتك على الفهم .</p>  <br>
 
-<p dir='rtl' align='right'>في هذه السلسلة متعددة الأجزاء ، ستتعرف على كل شيء عن النظام البيئي لتطوير Android باتباع خارطة طريق مطور Android لعام 2022 ، مما يمنحك رؤية أكثر شمولية لمجتمع Android وكيف يمكنك التقدم كمطور.</p>
+<p dir='rtl' align='right'>في هذه السلسلة متعددة الأجزاء ، ستتعرف على كل شيء عن النظام البيئي لتطوير اندرويد باتباع خارطة طريق تطوير الاندرويد لعام 2022 ، مما يمنحك رؤية أكثر شمولية لمجتمع اندرويد وكيف يمكنك التقدم كمطور.</p>
 
 - **[The Android Platform: The 2022 Android Developer Roadmap – Part 1](https://getstream.io/blog/android-developer-roadmap/)**
 - **[App Components: The Android Developer Roadmap – Part 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
@@ -49,7 +49,7 @@
 
 <p dir='rtl' align='right'>إذا كنت ترغب في الحصول على إشعار عند إصدار منشورات في المستقبل:</p>
 
-join the **[watchers](https://github.com/skydoves/android-developer-roadmap/watchers)** on GitHub or follow **[Stream](https://twitter.com/getstream_io)** on Twitter. You can also follow the __[author](https://github.com/skydoves)__ of this repository on GitHub.
+انضم الى **[المراقبين](https://github.com/skydoves/android-developer-roadmap/watchers)** علىGitHub او تابع **[Stream](https://twitter.com/getstream_io)** على x (تويتر سابقا). يمكنك ايضا متابعة __[مؤلف](https://github.com/skydoves)__ هذا المستودع على GitHub.
 
 <a href="https://getstream.io/tutorials/android-chat?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=2022AndroidDeveloperRoadmap&utm_term=DevRelOss">
 <img src="https://user-images.githubusercontent.com/24237865/138428440-b92e5fb7-89f8-41aa-96b1-71a5486c5849.png" align="right" width="12%"/>
@@ -57,7 +57,7 @@ join the **[watchers](https://github.com/skydoves/android-developer-roadmap/watc
 
 ## ⛴ Stream
 
-<p dir='rtl' align='right'>إذا كنت مهتمًا ببناء ميزة دردشة قوية ، فهي سهلة الاستخدام ، ومفتوحة المصدر ، وتحتل المرتبة الأولى في Kotlin ، وتتم صيانتها بنشاط ، فيمكنك أيضًا التحقق من ذلك :</p>
+<p dir='rtl' align='right'>إذا كنت مهتمًا ببناء ميزة دردشة قوية ، سهلة الاستخدام ، ومفتوحة المصدر ، وتحتل المرتبة الأولى في Kotlin ، وتتم صيانتها بنشاط ، فيمكنك أيضًا التحقق من ذلك :</p>
 
 [Stream Chat for Android](https://getstream.io/tutorials/android-chat)
 
@@ -69,29 +69,31 @@ join the **[watchers](https://github.com/skydoves/android-developer-roadmap/watc
 
 ## 📱 تطبيق تجريبي 
 
-<p dir='rtl' align='right'>والذي يوفر الكثير من مكوناتيتضمن هذا المشروع مشروع تجريبي يعرض صورة خريطة الطريق. يمكنك تنزيل أحدث إصدار من ملف APK على ملف :</p>
+<p dir='rtl' align='right'>والذي يوفر الكثير من المكونات يتضمن هذا المشروع مشروع تجريبي يعرض صورة خريطة الطريق. يمكنك تنزيل أحدث إصدار من ملف APK على ملف :</p>
 
 [Releases](https://github.com/skydoves/android-developer-roadmap/releases)
 
 ## 🤝 إسهام 
 
-<p dir='rtl' align='right'>لا يغطي هذا المشروع كل شيء ، لذلك إذا كان هناك شيء مفقود أو يجب إصلاحه ، يمكن لأي شخص المساهمة في هذا المشروع باتباع</p>
+<p dir='rtl' align='right'>لا يغطي هذا المشروع كل شيء ، لذلك إذا كان هناك شيء مفقود أو يجب إصلاحه ، يمكن لأي 
+شخص المساهمة في هذا المشروع باتباع ارشادات المساهمة </p>
 
-[CONTRIBUTING](CONTRIBUTING.md) guides.
+[CONTRIBUTING](CONTRIBUTING.md).
 
 ## 💡 إلهام 
 
 <p dir='rtl' align='right'>هذا المشروع مستوحى من : </p>
 
 [Android Developer Roadmap 2020](https://github.com/mobile-roadmap/android-developer-roadmap). 
-<p dir='rtl' align='right'>لذا شكرًا لك على المؤلفين الذين قدموا أفكار خارطة الطريق. أيضًا ، يمكنك تعلم الكثير من المعرفة من المستودع.</p>
+<p dir='rtl' align='right'>لذا شكرًا لك على المؤلفين الذين قدموا أفكار خارطة الطريق. أيضًا ، يمكنك تعلم الكثير من المستودع.</p>
 
 
-## تجد هذا المشروع مفيدا؟ :heart:
+## هل تجد هذا المشروع مفيدا؟ :heart:
 
-ادعمها بالانضمام __[stargazers](https://github.com/skydoves/android-developer-roadmap/stargazers)__ for this repository. :star: <br>
+ادعمه بالانضمام الى __[stargazers](https://github.com/skydoves/android-developer-roadmap/stargazers)__ لهذا المستودع. :star: <br>
+و __[تابعني](https://github.com/skydoves)__ لإبداعاتي القادمة! 🤩
 
-## ترخيص 
+## تراخيص 
 ```
 Copyright 2021 Stream.IO, Inc. All Rights Reserved.
 
