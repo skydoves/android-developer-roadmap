@@ -11,7 +11,7 @@
 <a href="/README_AR.md" target="_blank"> Arabic </a> | <a href="/README.md" target="_blank"> English </a> | <a href="/README_KR.md" target="_blank"> 한국어 </a> | <a href="/README_DE.md" target="_blank"> Deutsch </a>| <a href="/README_ES.md" target="_blank"> Español</a> | <a href="/README_TR.md" target="_blank"> Turkish</a> | <a href="/README_ID.md" target="_blank"> Bahasa Indonesia</a> | <a href="/README_FR.md" target="_blank"> Français</a> | <a href="/README_PT.md" target="_blank"> Portuguese</a> | <a href="/README_KHM.md" target="_blank">ភាសាខ្មែរ</a> | <a href="/README_VI.md" target="_blank">Vietnamese</a> | <a href="/README_CN.md" target="_blank">中文</a> | <a href="/README_JP.md" target="_blank">日本語</a> | <a href="/README_FA.md" target="_blank">فارسی</a> | <a href="/README_TH.md" target="_blank">ภาษาไทย</a>
 </p>
 
-Android Developer Roadmap 2022 suggests learning paths to understanding Android development. You can read the roadmap following the line path in the middle of the map. <br>
+Android Developer Roadmap suggests learning paths to understanding Android development. You can read the roadmap following the line path in the middle of the map. <br>
 
 Each node indicates concepts of Android systems, Android SDK, and generally used libraries. It would be helpful to refer to the [Android Developers Reference](https://developer.android.com/reference) or GitHub for the specific terminologies. <br>
 
@@ -42,6 +42,7 @@ In this multipart series, you'll learn all about the Android development ecosyst
 - **[App Components: The Android Developer Roadmap – Part 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
 - **[App Navigation and Jetpack: The Android Developer Roadmap – Part 3](https://getstream.io/blog/android-developer-roadmap-part-3/)**
 - **[Design Patterns and Architecture: The Android Developer Roadmap – Part 4](https://getstream.io/blog/design-patterns-and-architecture-the-android-developer-roadmap-part-4/)**
+- **[Jetpack Compose: The Android Developer Roadmap – Part 5](https://getstream.io/blog/android-developer-roadmap-part-5/)**
 
 If you'd like to get notified as we release future posts, join the **[watchers](https://github.com/skydoves/android-developer-roadmap/watchers)** on GitHub or follow **[Stream](https://twitter.com/getstream_io)** on Twitter. You can also follow the __[author](https://github.com/skydoves)__ of this repository on GitHub.
 
@@ -51,7 +52,7 @@ If you'd like to get notified as we release future posts, join the **[watchers](
 
 ## ⛴ Stream
 
-If you're interested in building a robust chat feature, which is an easy-to-use, open-sourced, Kotlin-first, actively maintained, check out the [Stream Chat for Android](https://getstream.io/tutorials/android-chat). If you're interested in building chat features with Jetpack Compose, you can also check out [Stream Chat for Compose](https://getstream.io/chat/compose/tutorial/), which provides a lot of Jetpack Compose components.
+If you're interested in building a robust chat, video/audio calls, or livestreaming feature, which is an easy-to-use, open-sourced, Kotlin-first, actively maintained, check out the __[Stream Chat for Android](https://getstream.io/tutorials/android-chat?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=2022AndroidDeveloperRoadmap&utm_term=DevRelOss)__ and __[Stream Video SDK for Compose](https://getstream.io/video/sdk/android/tutorial/video-calling?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=2022AndroidDeveloperRoadmap&utm_term=DevRelOss)__.
 
 ## 📱 Demo Application
 

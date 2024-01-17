@@ -46,6 +46,7 @@ Android Developer Roadmap 2022 建议了学习了解 Android 开发的学习路�
 - **[App Components: The Android Developer Roadmap – Part 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
 - **[App Navigation and Jetpack: The Android Developer Roadmap – Part 3](https://getstream.io/blog/android-developer-roadmap-part-3/)**
 - **[Design Patterns and Architecture: The Android Developer Roadmap – Part 4](https://getstream.io/blog/design-patterns-and-architecture-the-android-developer-roadmap-part-4/)**
+- **[Jetpack Compose: The Android Developer Roadmap – Part 5](https://getstream.io/blog/android-developer-roadmap-part-5/)**
 
 如果你想在我们发布新文章时得到通知，那么请加入 **[watchers](https://github.com/skydoves/android-developer-roadmap/watchers)** 或者关注 **[Stream](https://twitter.com/getstream_io)** 的 Twitter. 你还可以关注这个 GitHub 仓库的作者 __[author](https://github.com/skydoves)__ .
 
