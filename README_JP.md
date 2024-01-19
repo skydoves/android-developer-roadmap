@@ -39,6 +39,7 @@ Android Developer Roadmap 2022は、Android開発を理解するための学習�
 - **[App Components: The Android Developer Roadmap – Part 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
 - **[App Navigation and Jetpack: The Android Developer Roadmap – Part 3](https://getstream.io/blog/android-developer-roadmap-part-3/)**
 - **[Design Patterns and Architecture: The Android Developer Roadmap – Part 4](https://getstream.io/blog/design-patterns-and-architecture-the-android-developer-roadmap-part-4/)**
+- **[Jetpack Compose: The Android Developer Roadmap – Part 5](https://getstream.io/blog/android-developer-roadmap-part-5/)**
 
 今後投稿のタイミングで通知を受け取りたい場合は **[watchers](https://github.com/skydoves/android-developer-roadmap/watchers)** に加入、もしくは **[Stream](https://twitter.com/getstream_io)** Twitterアカウントのフォロー等お願いいたします。このGitHubリポジトリの __[author](https://github.com/skydoves)__ もこちらからフォローができます。
 

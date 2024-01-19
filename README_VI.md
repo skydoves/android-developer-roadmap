@@ -37,6 +37,7 @@ Trong loạt bài này, bạn sẽ tìm hiểu tất cả về hệ sinh thái p
 - **[App Components: The Android Developer Roadmap – Part 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
 - **[App Navigation and Jetpack: The Android Developer Roadmap – Part 3](https://getstream.io/blog/android-developer-roadmap-part-3/)**
 - **[Design Patterns and Architecture: The Android Developer Roadmap – Part 4](https://getstream.io/blog/design-patterns-and-architecture-the-android-developer-roadmap-part-4/)**
+- **[Jetpack Compose: The Android Developer Roadmap – Part 5](https://getstream.io/blog/android-developer-roadmap-part-5/)**
 
 Nếu bạn muốn nhận thông báo khi chúng tôi phát hành các bài đăng trong tương lai, hãy trở thành một trong những **[người theo dõi](https://github.com/skydoves/android-developer-roadmap/watchers)** trên GitHub hoặc theo dõi **[Stream](https://twitter.com/getstream_io)** trên Twitter. Bạn cũng có thể theo dõi tác giả của repository này trên GitHub.
 

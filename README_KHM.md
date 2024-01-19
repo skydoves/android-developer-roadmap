@@ -37,6 +37,7 @@ Android Developer Roadmap 2022 ផ្តល់នូវគំរោងការ�
 - **[App Components: The Android Developer Roadmap – ផ្នែកទី 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
 - **[App Navigation and Jetpack: The Android Developer Roadmap – ផ្នែកទី 3](https://getstream.io/blog/android-developer-roadmap-part-3/)**
 - **[Design Patterns and Architecture: The Android Developer Roadmap – ផ្នែកទី 4](https://getstream.io/blog/design-patterns-and-architecture-the-android-developer-roadmap-part-4/)**
+- **[Jetpack Compose: The Android Developer Roadmap – Part 5](https://getstream.io/blog/android-developer-roadmap-part-5/)**
 
 ប្រសិនបើអ្នកចង់ទទួលបានការជូនដំណឹងនៅពេលដែលយើងចេញផ្សាយការប្រកាសនាពេលអនាគត សូមចូលរួម **[watchers](https://github.com/skydoves/android-developer-roadmap/watchers)** នៅលើ GitHub ឬ តាម **[Stream ](https://twitter.com/getstream_io)** នៅលើ Twitter ។ អ្នកក៏អាចតាម __[អ្នកនិពន្ធ](https://github.com/skydoves)__ នៅលើ GitHub ។
 

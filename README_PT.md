@@ -37,6 +37,7 @@ Nesta série de várias partes, você aprenderá tudo sobre o ecossistema de des
 - **[App Components: The Android Developer Roadmap – Part 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
 - **[App Navigation and Jetpack: The Android Developer Roadmap – Part 3](https://getstream.io/blog/android-developer-roadmap-part-3/)**
 - **[Design Patterns and Architecture: The Android Developer Roadmap – Part 4](https://getstream.io/blog/design-patterns-and-architecture-the-android-developer-roadmap-part-4/)**
+- **[Jetpack Compose: The Android Developer Roadmap – Part 5](https://getstream.io/blog/android-developer-roadmap-part-5/)**
 
 Se você quiser ser notificado assim que lançarmos postagens futuras, junte-se ao **[watchers](https://github.com/skydoves/android-developer-roadmap/watchers)** no GitHub ou siga **[Stream](https://twitter.com/getstream_io)** no Twitter. Você também pode seguir o__[autor](https://github.com/skydoves)__ deste repositório no GitHub.
 

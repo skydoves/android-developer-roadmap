@@ -12,7 +12,7 @@
 <a href="/README_AR.md" target="_blank"> Arabic </a> | <a href="/README.md" target="_blank"> English </a> | <a href="/README_KR.md" target="_blank"> 한국어 </a> | <a href="/README_DE.md" target="_blank"> Deutsch </a>| <a href="/README_ES.md" target="_blank"> Español</a> | <a href="/README_TR.md" target="_blank"> Turkish</a> | <a href="/README_ID.md" target="_blank"> Bahasa Indonesia</a> | <a href="/README_FR.md" target="_blank"> Français</a> | <a href="/README_PT.md" target="_blank"> Portuguese</a> | <a href="/README_KHM.md" target="_blank">ភាសាខ្មែរ</a> | <a href="/README_VI.md" target="_blank">Vietnamese</a> | <a href="/README_CN.md" target="_blank">中文</a> | <a href="/README_JP.md" target="_blank">日本語</a> | <a href="/README_FA.md" target="_blank">فارسی</a> | <a href="/README_TH.md" target="_blank">ภาษาไทย</a>
 </p>
 
-2022 안드로이드 개발자 로드맵은 안드로이드 개발의 이해를 돕기 위한 학습 경로를 소개합니다. 로드맵 중간에 있는 선 경로를 따라서 로드맵을 읽으실 수 있습니다. <br>
+안드로이드 개발자 로드맵은 안드로이드 개발의 이해를 돕기 위한 학습 경로를 소개합니다. 로드맵 중간에 있는 선 경로를 따라서 로드맵을 읽으실 수 있습니다. <br>
 
 각 노드는 안드로이드 시스템, 안드로이드 SDK, 그리고 일반적으로 현업에서 많이 사용되는 라이브러리들로 구성되어 있습니다. 각 용어는 [Android Developers Reference](https://developer.android.com/reference) 혹은 GitHub를 함께 참조하시면 이해하는 데 도움이 될 수 있습니다. <br>
 
@@ -29,14 +29,15 @@
 
 <a href="https://getstream.io/blog/android-developer-roadmap/"><img src="images/article.png" /></a><br>
 
-2022년 안드로이드 개발자 로드맵은 최신 안드로이드 생태계를 종합적으로 이해할 수 있도록 디자인되었으며, 제안된 학습 경로를 따라 개념을 파악하는 데 도움이 됩니다.<br>
+안드로이드 개발자 로드맵은 최신 안드로이드 생태계를 종합적으로 이해할 수 있도록 디자인되었으며, 제안된 학습 경로를 따라 개념을 파악하는 데 도움이 됩니다.<br>
 
-로드맵과 관련된 포스트는 총 5부로 구성되어 있으며, 2022년 안드로이드 개발자 로드맵에 따라 안드로이드 개발 생태계에 대한 내용을 학습하실 수 있습니다. 또한 안드로이드 커뮤니티에 대한 전체적인 시각과 개발자로서 어떻게 발전할 수 있는지 살펴볼 수 있습니다.
+로드맵과 관련된 포스트는 총 5부로 구성되어 있으며, 안드로이드 개발자 로드맵에 따라 안드로이드 개발 생태계에 대한 내용을 학습하실 수 있습니다. 또한 안드로이드 커뮤니티에 대한 전체적인 시각과 개발자로서 어떻게 발전할 수 있는지 살펴볼 수 있습니다.
 
 - **[The Android Platform: The 2022 Android Developer Roadmap – Part 1](https://getstream.io/blog/android-developer-roadmap/)**
 - **[App Components: The Android Developer Roadmap – Part 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
 - **[App Navigation and Jetpack: The Android Developer Roadmap – Part 3](https://getstream.io/blog/android-developer-roadmap-part-3/)**
 - **[Design Patterns and Architecture: The Android Developer Roadmap – Part 4](https://getstream.io/blog/design-patterns-and-architecture-the-android-developer-roadmap-part-4/)**
+- **[Jetpack Compose: The Android Developer Roadmap – Part 5](https://getstream.io/blog/android-developer-roadmap-part-5/)**
 
 추가적인 포스트는 **[Stream Blog](https://getstream.io/blog/topic/engineering/android/)** 에 지속적으로 업로드될 예정입니다. 또한, 다음 포스트에 대한 알림을 위해 이 리파지토리의 __[작성자](https://github.com/skydoves)__ 를 팔로우 하실 수도 있습니다.
 
