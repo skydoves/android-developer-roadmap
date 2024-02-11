@@ -54,7 +54,7 @@ If you'd like to get notified as we release future posts, join the **[watchers](
 
 If you're interested in building a robust chat, video/audio calls, or livestreaming feature, which is an easy-to-use, open-sourced, Kotlin-first, actively maintained, check out the __[Stream Chat for Android](https://getstream.io/tutorials/android-chat?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=2022AndroidDeveloperRoadmap&utm_term=DevRelOss)__ and __[Stream Video SDK for Compose](https://getstream.io/video/sdk/android/tutorial/video-calling?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=2022AndroidDeveloperRoadmap&utm_term=DevRelOss)__.
 
-## 📱 Demo Application
+## 📱Demo Application
 
 This project includes a demo project which shows the roadmap image. You can download the latest APK on the [Releases](https://github.com/skydoves/android-developer-roadmap/releases).
 
