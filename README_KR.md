@@ -20,16 +20,10 @@
 
 ## 🗺 Roadmap
 
-<details>
-  <summary>다크모드로 안드로이드 로드맵 보기</summary>
-
-![Roadmap](images/android_developer_roadmap_dark.png)
-
-</details>
-
-<br>
-
-![Roadmap](images/android_developer_roadmap.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/android_developer_roadmap_dark.png">
+  <img alt="Roadmap" src="images/android_developer_roadmap.png">
+</picture>
 
 ## Articles
 

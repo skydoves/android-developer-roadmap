@@ -20,16 +20,10 @@ Além disso, **você não precisa aprender tudo deste roteiro**. Portanto, recom
 
 ## 🗺 Roteiro
 
-<details>
-  <summary>Dark mode Android Developer Roadmap</summary>
-
-![Roadmap](images/android_developer_roadmap_dark.png)
-
-</details>
-
-<br>
-
-![Roteiro](/images/android_developer_roadmap.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/android_developer_roadmap_dark.png">
+  <img alt="Roteiro" src="images/android_developer_roadmap.png">
+</picture>
 
 ## ✍️ Artigos
 

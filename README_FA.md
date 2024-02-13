@@ -21,16 +21,10 @@
 
 ## 🗺 نقشه‌راه
 
-<details>
-  <summary>نقشه‌راه توسعه‌دهنده اندروید با زمینه تاریک</summary>
-
-![Roadmap](images/android_developer_roadmap_dark.png)
-
-</details>
-
-<br>
-
-![Roadmap](images/android_developer_roadmap.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/android_developer_roadmap_dark.png">
+  <img alt="Roadmap" src="images/android_developer_roadmap.png">
+</picture>
 
 ## ✍️ مقالات
 
