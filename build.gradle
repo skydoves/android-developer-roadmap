@@ -2,7 +2,7 @@ buildscript {
     ext {
         compose_version = '1.5.2'
         compose_compiler_version = '1.5.3'
-        compose_activity_version = '1.7.2'
+        compose_activity_version = '1.8.2'
         landscapist_version = '2.2.10'
         zoomable_version = '1.5.1'
     }
