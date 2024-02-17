@@ -1,4 +1,4 @@
-<h1 align="center">Android Developer Roadmap 2022</h1></br>
+<h1 align="center">Android Developer Roadmap</h1></br>
 
 <p align="center">
   <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
@@ -12,9 +12,9 @@
 </p>
 
 
-Android Developer Roadmap 2022 Android geliştirmeyi anlamak için öğrenme yolları önerir. Haritanın ortasındaki çizgiyi takip ederek roadmap'i inceleyebilirsiniz. <br>
+Android Developer Roadmap, Android geliştirmeyi anlamak için öğrenme yolları önerir. Haritanın ortasındaki çizgiyi takip ederek roadmap'i inceleyebilirsiniz. <br>
 
-Her düğüm, Android sistemleri, Android SDK ve genel olarak kullanılan kitaplık kavramlarını gösterir. Belirli terminolojiler için [Android Geliştiricileri Referansına](https://developer.android.com/reference) veya GitHub'a başvurmak faydalı olacaktır. <br>
+Her düğüm, Android sistemleri, Android SDK ve genel olarak kullanılan kütüphanelerin kavramlarını gösterir. Belirli terimler için [Android Geliştiricileri Referansına](https://developer.android.com/reference) veya GitHub'a başvurmak faydalı olacaktır. <br>
 
 Ayrıca bu yol haritasındaki her şeyi öğrenmenize gerek yok. Bu nedenle, yalnızca size yardımcı olacak bölümleri okumanızı öneririz.
 
@@ -29,9 +29,9 @@ Ayrıca bu yol haritasındaki her şeyi öğrenmenize gerek yok. Bu nedenle, yal
 
 <a href="https://getstream.io/blog/android-developer-roadmap/"><img src="images/article.png" /></a><br>
 
-Android Developer Roadmap 2022, mevcut Android ekosistemini kapsamlı bir şekilde anlamanızı sağlamak için tasarlanmıştır ve kavramları kavramanıza yardımcı olmak için yol boyunca önerilen öğrenme yolları sağlar.
+Android Developer Roadmap, mevcut Android ekosistemini kapsamlı bir şekilde anlamanıza yardımcı olmak amacıyla tasarlanmıştır ve kavramları kavramanıza yardımcı olmak için yol boyunca önerilen öğrenme yolları sağlar.
 
-Bu çok parçalı dizide, Android Developer Roadmap 2022'yi takip ederek Android development ekosistemi hakkında her şeyi öğrenecek ve siz de Android topluluğunun daha bütünsel bir görünümünü ve bir geliştirici olarak nasıl ilerleyebileceğinizi anlayacaksınız.
+Bu çok parçalı seride, Android Developer Roadmap'i takip ederek Android development ekosistemi hakkında her şeyi öğrenecek ve Android topluluğunu daha geniş bir bakış açısıyla göreceksiniz. Ayrıca, geliştirici olarak nasıl ilerleyebileceğinizi de öğreneceksiniz..
 
 - **[The Android Platform: The 2022 Android Developer Roadmap – Part 1](https://getstream.io/blog/android-developer-roadmap/)**
 - **[App Components: The Android Developer Roadmap – Part 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
