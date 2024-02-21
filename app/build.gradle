@@ -51,5 +51,5 @@ dependencies {
     implementation "com.github.skydoves:landscapist-coil:$landscapist_version"
     implementation "com.github.skydoves:landscapist-placeholder:$landscapist_version"
 
-    implementation "me.saket.telephoto:zoomable:0.6.2"
+    implementation "me.saket.telephoto:zoomable-image-coil:0.8.0"
 }
