@@ -8,7 +8,7 @@
   <a href="https://github.com/skydoves"><img alt="Profile" src="https://skydoves.github.io/badges/skydoves.svg"/></a>
 </p>
 <p align="center">
-<a href="/README_AR.md" target="_blank"> Arabic </a> | <a href="/README.md" target="_blank"> English </a> | <a href="/README_KR.md" target="_blank"> 한국어 </a> | <a href="/README_DE.md" target="_blank"> Deutsch </a>| <a href="/README_ES.md" target="_blank"> Español</a> | <a href="/README_TR.md" target="_blank"> Turkish</a> | <a href="/README_ID.md" target="_blank"> Bahasa Indonesia</a> | <a href="/README_FR.md" target="_blank"> Français</a> | <a href="/README_PT.md" target="_blank"> Portuguese</a> | <a href="/README_KHM.md" target="_blank">ភាសាខ្មែរ</a> | <a href="/README_VI.md" target="_blank">Vietnamese</a> | <a href="/README_CN.md" target="_blank">中文</a> | <a href="/README_JP.md" target="_blank">日本語</a> | <a href="/README_FA.md" target="_blank">فارسی</a> | <a href="/README_TH.md" target="_blank">ภาษาไทย</a> | <a href="/README_IT.md" target="_blank">Italiano</a>
+<a href="/README_AR.md" target="_blank"> Arabic </a> | <a href="/README.md" target="_blank"> English </a> | <a href="/README_KR.md" target="_blank"> 한국어 </a> | <a href="/README_DE.md" target="_blank"> Deutsch </a>| <a href="/README_ES.md" target="_blank"> Español</a> | <a href="/README_TR.md" target="_blank"> Turkish</a> | <a href="/README_ID.md" target="_blank"> Bahasa Indonesia</a> | <a href="/README_FR.md" target="_blank"> Français</a> | <a href="/README_PT.md" target="_blank"> Portuguese</a> | <a href="/README_KHM.md" target="_blank">ភាសាខ្មែរ</a> | <a href="/README_VI.md" target="_blank">Vietnamese</a> | <a href="/README_CN.md" target="_blank">中文</a> | <a href="/README_JP.md" target="_blank">日本語</a> | <a href="/README_FA.md" target="_blank">فارسی</a> | <a href="/README_TH.md" target="_blank">ภาษาไทย</a> | <a href="/README_IT.md" target="_blank">Italiano</a>| <a href="/README_BD.md" target="_blank">Bengali</a>
 </p>
 
 Android Developer Roadmap suggests learning paths to understanding Android development. You can read the roadmap following the line path in the middle of the map. <br>
@@ -32,11 +32,11 @@ The Android Developer Roadmap is designed to give you a comprehensive understand
 
 In this multipart series, you'll learn all about the Android development ecosystem following our Android Developer Roadmap, giving you a more holistic view of the Android community and how you can progress as a developer.
 
-- **[The Android Platform: The 2022 Android Developer Roadmap – Part 1](https://getstream.io/blog/android-developer-roadmap/)**
-- **[App Components: The Android Developer Roadmap – Part 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
-- **[App Navigation and Jetpack: The Android Developer Roadmap – Part 3](https://getstream.io/blog/android-developer-roadmap-part-3/)**
-- **[Design Patterns and Architecture: The Android Developer Roadmap – Part 4](https://getstream.io/blog/design-patterns-and-architecture-the-android-developer-roadmap-part-4/)**
-- **[Jetpack Compose: The Android Developer Roadmap – Part 5](https://getstream.io/blog/android-developer-roadmap-part-5/)**
+- **[The Android Platform: The 2022 Android Developer Roadmap – Part 1](https://getstream.io/blog/android-developer-roadmap?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Dec2024_AndroidDeveloperRoadmap&utm_term=DevRelOss)**
+- **[App Components: The Android Developer Roadmap – Part 2](https://getstream.io/blog/android-developer-roadmap-part-2?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Dec2024_AndroidDeveloperRoadmap&utm_term=DevRelOss)**
+- **[App Navigation and Jetpack: The Android Developer Roadmap – Part 3](https://getstream.io/blog/android-developer-roadmap-part-3?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Dec2024_AndroidDeveloperRoadmap&utm_term=DevRelOss)**
+- **[Design Patterns and Architecture: The Android Developer Roadmap – Part 4](https://getstream.io/blog/design-patterns-and-architecture-the-android-developer-roadmap-part-4?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Dec2024_AndroidDeveloperRoadmap&utm_term=DevRelOss)**
+- **[Jetpack Compose: The Android Developer Roadmap – Part 5](https://getstream.io/blog/android-developer-roadmap-part-5?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Dec2024_AndroidDeveloperRoadmap&utm_term=DevRelOss)**
 
 If you'd like to get notified as we release future posts, join the **[watchers](https://github.com/skydoves/android-developer-roadmap/watchers)** on GitHub or follow **[Stream](https://twitter.com/getstream_io)** on Twitter. You can also follow the __[author](https://github.com/skydoves)__ of this repository on GitHub.
 
