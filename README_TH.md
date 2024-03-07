@@ -40,7 +40,7 @@ Roadmap สำหรับนักพัฒนาแอป Android ปี 2022 
 
 ถ้าคุณไม่อยากจะพลาดเพื่อมีโพสต์ใหม่ ๆ กดเข้าร่วมเป็น **[watchers](https://github.com/skydoves/android-developer-roadmap/watchers)** ใน GitHub เพื่อรับการแจ้งเตือน หรือกด Follow **[Stream](https://twitter.com/getstream_io)** ใน Twitter และนอกจากนั้นคุณยังสามารถติดตาม __[ผู้สร้าง Repo](https://github.com/skydoves)__ นี้ก็ได้เช่นกัน
 
-<a href="https://getstream.io/tutorials/android-chat?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=2022AndroidDeveloperRoadmap&utm_term=DevRelOss">
+<a href="https://getstream.io/tutorials/android-chat?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=2022AndroidDeveloperRoadmap&utm_term=DevRelOss">
 <img src="https://user-images.githubusercontent.com/24237865/138428440-b92e5fb7-89f8-41aa-96b1-71a5486c5849.png" align="right" width="12%"/>
 </a>
 

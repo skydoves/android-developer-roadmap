@@ -45,7 +45,7 @@ In questa serie suddivisa in più parti, imparerai tutto ciò che riguarda l'eco
 
 Se vuoi rimanere aggiornato con i nostri ultimi articoli, seguici **[watchers](https://github.com/skydoves/android-developer-roadmap/watchers)** su Github oppure **[Stream](https://twitter.com/getstream_io)** su Twitter. puoi anche seguire  l'__[autore](https://github.com/skydoves)__ di questa repository su GitHub.
 
-<a href="https://getstream.io/tutorials/android-chat?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=2022AndroidDeveloperRoadmap&utm_term=DevRelOss">
+<a href="https://getstream.io/tutorials/android-chat?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=2022AndroidDeveloperRoadmap&utm_term=DevRelOss">
 <img src="https://user-images.githubusercontent.com/24237865/138428440-b92e5fb7-89f8-41aa-96b1-71a5486c5849.png" align="right" width="12%"/>
 </a>
 

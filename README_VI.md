@@ -41,7 +41,7 @@ Trong loạt bài này, bạn sẽ tìm hiểu tất cả về hệ sinh thái p
 
 Nếu bạn muốn nhận thông báo khi chúng tôi phát hành các bài đăng trong tương lai, hãy trở thành một trong những **[người theo dõi](https://github.com/skydoves/android-developer-roadmap/watchers)** trên GitHub hoặc theo dõi **[Stream](https://twitter.com/getstream_io)** trên Twitter. Bạn cũng có thể theo dõi tác giả của repository này trên GitHub.
 
-<a href="https://getstream.io/tutorials/android-chat?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=2022AndroidDeveloperRoadmap&utm_term=DevRelOss">
+<a href="https://getstream.io/tutorials/android-chat?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=2022AndroidDeveloperRoadmap&utm_term=DevRelOss">
 <img src="https://user-images.githubusercontent.com/24237865/138428440-b92e5fb7-89f8-41aa-96b1-71a5486c5849.png" align="right" width="12%"/>
 </a>
 

@@ -44,7 +44,7 @@ Android Developer Roadmap 2022 建议了学习了解 Android 开发的学习路�
 
 如果你想在我们发布新文章时得到通知，那么请加入 **[watchers](https://github.com/skydoves/android-developer-roadmap/watchers)** 或者关注 **[Stream](https://twitter.com/getstream_io)** 的 Twitter. 你还可以关注这个 GitHub 仓库的作者 __[author](https://github.com/skydoves)__ .
 
-<a href="https://getstream.io/tutorials/android-chat?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=2022AndroidDeveloperRoadmap&utm_term=DevRelOss">
+<a href="https://getstream.io/tutorials/android-chat?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=2022AndroidDeveloperRoadmap&utm_term=DevRelOss">
 <img src="https://user-images.githubusercontent.com/24237865/138428440-b92e5fb7-89f8-41aa-96b1-71a5486c5849.png" align="right" width="12%"/>
 </a>
 

@@ -45,7 +45,7 @@
 
 انضم الى **[المراقبين](https://github.com/skydoves/android-developer-roadmap/watchers)** علىGitHub او تابع **[Stream](https://twitter.com/getstream_io)** على x (تويتر سابقا). يمكنك ايضا متابعة __[مؤلف](https://github.com/skydoves)__ هذا المستودع على GitHub.
 
-<a href="https://getstream.io/tutorials/android-chat?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=2022AndroidDeveloperRoadmap&utm_term=DevRelOss">
+<a href="https://getstream.io/tutorials/android-chat?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=2022AndroidDeveloperRoadmap&utm_term=DevRelOss">
 <img src="https://user-images.githubusercontent.com/24237865/138428440-b92e5fb7-89f8-41aa-96b1-71a5486c5849.png" align="right" width="12%"/>
 </a>
 
