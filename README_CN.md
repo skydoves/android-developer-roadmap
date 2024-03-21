@@ -64,7 +64,8 @@ Android Developer Roadmap 建议了学习 Android 开发的路径。你可以按
 
 ## 觉得这个项目有用吗? :heart:
 
-加入 __[stargazers](https://github.com/skydoves/android-developer-roadmap/stargazers)__ 以支持这个项目。 :star:<br>并 __[关注](https://github.com/skydoves)__ 我以期待我的下一个作品！ 🤩
+加入 __[stargazers](https://github.com/skydoves/android-developer-roadmap/stargazers)__ 以支持这个项目。 :star:<br>
+并 __[关注](https://github.com/skydoves)__ 我以期待我的下一个作品！ 🤩
 
 ## License
 ```
