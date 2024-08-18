@@ -41,6 +41,10 @@
 
 추가적인 포스트는 **[Stream Blog](https://getstream.io/blog/topic/engineering/android/)** 에 지속적으로 업로드될 예정입니다. 또한, 다음 포스트에 대한 알림을 위해 이 리파지토리의 __[작성자](https://github.com/skydoves)__ 를 팔로우 하실 수도 있습니다.
 
+## 🕊️ Dove Letter
+
+Kotlin과 Android에 대해 더 많은 학습을 원하신다면 [Dove Letter](https://github.com/doveletter/dove-letter)를 살펴보시길 바랍니다. Dove Letter는 안드로이드 및 Kotlin과 관련하여 학습, 토론, 및 지식을 공유할 수 있는 데일리 뉴스레터 형태의 유료 구독형 저장소입니다. 자세한 내용은 [Learn Kotlin and Android With Dove Letter](https://medium.com/@skydoves/learn-kotlin-and-android-with-dove-letter-26265da11903) 포스트를 참고하세요.
+
 ## Demo Application
 
 본 오픈소스 프로젝트는 로드맵 이미지를 보여주는 데모 앱을 포함하고 있습니다. [Releases](https://github.com/skydoves/android-developer-roadmap/releases) 에서 APK 파일을 다운로드하실 수 있습니다.
