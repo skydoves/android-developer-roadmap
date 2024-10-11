@@ -41,9 +41,13 @@
 
 추가적인 포스트는 **[Stream Blog](https://getstream.io/blog/topic/engineering/android/)** 에 지속적으로 업로드될 예정입니다. 또한, 다음 포스트에 대한 알림을 위해 이 리파지토리의 __[작성자](https://github.com/skydoves)__ 를 팔로우 하실 수도 있습니다.
 
+<a href="https://github.com/doveletter">
+<img src="https://github.com/user-attachments/assets/b1c938ec-1bfa-4e01-9c81-bcd67f926f63" width="13%" align="right"/>
+</a>
+
 ## 🕊️ Dove Letter
 
-Kotlin과 Android에 대해 더 많은 학습을 원하신다면 [Dove Letter](https://github.com/doveletter/dove-letter)를 살펴보시길 바랍니다. Dove Letter는 안드로이드 및 Kotlin과 관련하여 학습, 토론, 및 지식을 공유할 수 있는 데일리 뉴스레터 형태의 유료 구독형 저장소입니다. 자세한 내용은 [Learn Kotlin and Android With Dove Letter](https://medium.com/@skydoves/learn-kotlin-and-android-with-dove-letter-26265da11903) 포스트를 참고하세요.
+Kotlin과 Android에 대해 더 많은 학습을 원하신다면 [Dove Letter](https://github.com/doveletter/)를 살펴보시길 바랍니다. Dove Letter는 안드로이드 및 Kotlin과 관련하여 학습, 토론, 및 지식을 공유할 수 있는 데일리 뉴스레터 형태의 유료 구독형 저장소입니다. 자세한 내용은 [도브 레터: 안드로이드와 코틀린 학습하기](https://velog.io/@skydoves/doveletter) 포스트를 참고하세요.
 
 ## Demo Application
 
