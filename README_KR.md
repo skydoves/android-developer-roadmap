@@ -42,7 +42,7 @@
 추가적인 포스트는 **[Stream Blog](https://getstream.io/blog/topic/engineering/android/)** 에 지속적으로 업로드될 예정입니다. 또한, 다음 포스트에 대한 알림을 위해 이 리파지토리의 __[작성자](https://github.com/skydoves)__ 를 팔로우 하실 수도 있습니다.
 
 <a href="https://github.com/doveletter">
-<img src="https://github.com/user-attachments/assets/b1c938ec-1bfa-4e01-9c81-bcd67f926f63" width="13%" align="right"/>
+<img src="https://github.com/user-attachments/assets/3ecd2a7b-9713-40cd-8817-fa568271cefa" width="13%" align="right"/>
 </a>
 
 ## 🕊️ Dove Letter
