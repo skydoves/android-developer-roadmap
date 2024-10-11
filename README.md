@@ -41,7 +41,7 @@ In this multipart series, you'll learn all about the Android development ecosyst
 If you'd like to get notified as we release future posts, join the **[watchers](https://github.com/skydoves/android-developer-roadmap/watchers)** on GitHub or follow **[Stream](https://twitter.com/getstream_io)** on Twitter. You can also follow the __[author](https://github.com/skydoves)__ of this repository on GitHub.
 
 <a href="https://github.com/doveletter">
-<img src="https://github.com/user-attachments/assets/b1c938ec-1bfa-4e01-9c81-bcd67f926f63" width="13%" align="right"/>
+<img src="https://github.com/user-attachments/assets/3ecd2a7b-9713-40cd-8817-fa568271cefa" width="13%" align="right"/>
 </a>
 
 ## 🕊️ Dove Letter
