@@ -49,9 +49,15 @@
 
 Kotlin과 Android에 대해 더 많은 학습을 원하신다면 [Dove Letter](https://github.com/doveletter/)를 살펴보시길 바랍니다. Dove Letter는 안드로이드 및 Kotlin과 관련하여 학습, 토론, 및 지식을 공유할 수 있는 데일리 뉴스레터 형태의 유료 구독형 저장소입니다. 자세한 내용은 [도브 레터: 안드로이드와 코틀린 학습하기](https://velog.io/@skydoves/doveletter) 포스트를 참고하세요.
 
-## Demo Application
+## 🗺 Kotlin Multiplatform Developer Roadmap
 
-본 오픈소스 프로젝트는 로드맵 이미지를 보여주는 데모 앱을 포함하고 있습니다. [Releases](https://github.com/skydoves/android-developer-roadmap/releases) 에서 APK 파일을 다운로드하실 수 있습니다.
+![4](https://github.com/user-attachments/assets/de94eca0-3672-4b45-92bc-9117d797fded)
+
+The Kotlin Multiplatform Developer Roadmap aims to provide a comprehensive understanding of the current KMP ecosystem, offering suggested learning paths to help you grasp essential concepts along the way. The posts below cover key topics and technologies, guiding you through different stages of learning. <br>
+
+- [GitHub: kmp-developer-roadmap](https://github.com/skydoves/kmp-developer-roadmap): The Kotlin Multiplatform Developer Roadmap offers comprehensive learning paths to help you understand KMP ecosystems.
+- [A Developer’s Roadmap to Mastering Kotlin Multiplatform](https://getstream.io/blog/kotlin-multiplatform-roadmap/): You can explore the Kotlin Multiplatform (KMP) ecosystem using the Kotlin Multiplatform Developer Roadmap as your guide. The roadmap is designed to offer a comprehensive overview of the current KMP ecosystem, which provides suggested learning paths to help you better understand the various concepts involved in KMP development.
+- [Build Your First Android and iOS Mobile App With Kotlin Multiplatform](https://getstream.io/blog/build-app-kotlin-multiplatform/): If you're looking to build your first Android and iOS application using Kotlin Multiplatform and Compose Multiplatform, check out the article below for step-by-step instructions.
 
 ## Contribution
 

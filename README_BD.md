@@ -48,9 +48,15 @@
 
 আপনি যদি একটি শক্তিশালী চ্যাট, ভিডিও/অডিও কল, বা লাইভস্ট্রিমিং বৈশিষ্ট্য তৈরি করতে আগ্রহী হন, যা একটি সহজে ব্যবহারযোগ্য, ওপেন-সোর্স, কোটলিন-প্রথম, সক্রিয়ভাবে রক্ষণাবেক্ষণ করা হয়, তাহলে __[Stream Chat for Android](https://getstream.io/tutorials/android-chat?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=2022AndroidDeveloperRoadmap&utm_term=DevRelOss)__ এবং __[Stream Video SDK for Compose](https://getstream.io/video/sdk/android/tutorial/video-calling?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=2022AndroidDeveloperRoadmap&utm_term=DevRelOss)__.
 
-## 📱 ডেমো অ্যাপ্লিকেশন
+## 🗺 Kotlin Multiplatform Developer Roadmap
 
-এই প্রকল্পে একটি ডেমো প্রকল্প রয়েছে যা রোডম্যাপের চিত্র দেখায়। আপনি সর্বশেষ APK ডাউনলোড করতে পারেন [রিলিজেস](https://github.com/skydoves/android-developer-roadmap/releases) এ।
+![4](https://github.com/user-attachments/assets/de94eca0-3672-4b45-92bc-9117d797fded)
+
+The Kotlin Multiplatform Developer Roadmap aims to provide a comprehensive understanding of the current KMP ecosystem, offering suggested learning paths to help you grasp essential concepts along the way. The posts below cover key topics and technologies, guiding you through different stages of learning. <br>
+
+- [GitHub: kmp-developer-roadmap](https://github.com/skydoves/kmp-developer-roadmap): The Kotlin Multiplatform Developer Roadmap offers comprehensive learning paths to help you understand KMP ecosystems.
+- [A Developer’s Roadmap to Mastering Kotlin Multiplatform](https://getstream.io/blog/kotlin-multiplatform-roadmap/): You can explore the Kotlin Multiplatform (KMP) ecosystem using the Kotlin Multiplatform Developer Roadmap as your guide. The roadmap is designed to offer a comprehensive overview of the current KMP ecosystem, which provides suggested learning paths to help you better understand the various concepts involved in KMP development.
+- [Build Your First Android and iOS Mobile App With Kotlin Multiplatform](https://getstream.io/blog/build-app-kotlin-multiplatform/): If you're looking to build your first Android and iOS application using Kotlin Multiplatform and Compose Multiplatform, check out the article below for step-by-step instructions.
 
 ## 🤝 অবদান
 

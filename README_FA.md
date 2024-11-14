@@ -56,9 +56,15 @@
 اگر این قابلیت را با جتپک کمپوز می‌خواهید:  
 [Stream Chat for Compose](https://getstream.io/chat/compose/tutorial/)
 
-## 📱 اپلیکیشن دمو
+## 🗺 Kotlin Multiplatform Developer Roadmap
 
-این پروژه شامل یک پروژه دمو است که تصویر نقشه‌راه را نشان می‌دهد. شما می‌توانید از قسمت [انتشارها](https://github.com/skydoves/android-developer-roadmap/releases) جدیدترین فایل نصبی آن را دانلود کنید.
+![4](https://github.com/user-attachments/assets/de94eca0-3672-4b45-92bc-9117d797fded)
+
+The Kotlin Multiplatform Developer Roadmap aims to provide a comprehensive understanding of the current KMP ecosystem, offering suggested learning paths to help you grasp essential concepts along the way. The posts below cover key topics and technologies, guiding you through different stages of learning. <br>
+
+- [GitHub: kmp-developer-roadmap](https://github.com/skydoves/kmp-developer-roadmap): The Kotlin Multiplatform Developer Roadmap offers comprehensive learning paths to help you understand KMP ecosystems.
+- [A Developer’s Roadmap to Mastering Kotlin Multiplatform](https://getstream.io/blog/kotlin-multiplatform-roadmap/): You can explore the Kotlin Multiplatform (KMP) ecosystem using the Kotlin Multiplatform Developer Roadmap as your guide. The roadmap is designed to offer a comprehensive overview of the current KMP ecosystem, which provides suggested learning paths to help you better understand the various concepts involved in KMP development.
+- [Build Your First Android and iOS Mobile App With Kotlin Multiplatform](https://getstream.io/blog/build-app-kotlin-multiplatform/): If you're looking to build your first Android and iOS application using Kotlin Multiplatform and Compose Multiplatform, check out the article below for step-by-step instructions.
 
 ## 🤝 مشارکت
 

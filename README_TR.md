@@ -41,9 +41,15 @@ Bu çok parçalı seride, Android Developer Roadmap'i takip ederek Android devel
 
 Gelecekteki postları yayınladığımızda haberdar olmak istiyorsanız, GitHub'daki **[watchers](https://github.com/skydoves/android-developer-roadmap/watchers)** katılın veya Twitter'da **[Stream](https://twitter.com/getstream_io)**'i takip edin.
 
-## Demo Uygulaması
+## 🗺 Kotlin Multiplatform Developer Roadmap
 
-Bu proje, roadmap görüntüsünü gösteren bir demo proje içermektedir. En son APK'yı [Releases](https://github.com/skydoves/android-developer-roadmap/releases) adresinden indirebilirsiniz.
+![4](https://github.com/user-attachments/assets/de94eca0-3672-4b45-92bc-9117d797fded)
+
+The Kotlin Multiplatform Developer Roadmap aims to provide a comprehensive understanding of the current KMP ecosystem, offering suggested learning paths to help you grasp essential concepts along the way. The posts below cover key topics and technologies, guiding you through different stages of learning. <br>
+
+- [GitHub: kmp-developer-roadmap](https://github.com/skydoves/kmp-developer-roadmap): The Kotlin Multiplatform Developer Roadmap offers comprehensive learning paths to help you understand KMP ecosystems.
+- [A Developer’s Roadmap to Mastering Kotlin Multiplatform](https://getstream.io/blog/kotlin-multiplatform-roadmap/): You can explore the Kotlin Multiplatform (KMP) ecosystem using the Kotlin Multiplatform Developer Roadmap as your guide. The roadmap is designed to offer a comprehensive overview of the current KMP ecosystem, which provides suggested learning paths to help you better understand the various concepts involved in KMP development.
+- [Build Your First Android and iOS Mobile App With Kotlin Multiplatform](https://getstream.io/blog/build-app-kotlin-multiplatform/): If you're looking to build your first Android and iOS application using Kotlin Multiplatform and Compose Multiplatform, check out the article below for step-by-step instructions.
 
 ## Contribution
 
