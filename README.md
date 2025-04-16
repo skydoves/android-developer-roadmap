@@ -39,7 +39,15 @@ In this multipart series, you'll learn all about the Android development ecosyst
 - **[Jetpack Compose: The Android Developer Roadmap – Part 5](https://getstream.io/blog/android-developer-roadmap-part-5?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=Github_Dec2024_AndroidDeveloperRoadmap&utm_term=DevRelOss)**
 - **[Recap the Android Developer Roadmap in 2025](https://getstream.io/blog/android-developer-roadmap?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=Github_Dec2024_AndroidDeveloperRoadmap&utm_term=DevRelOss)**
 
-If you'd like to get notified as we release future posts, join the **[watchers](https://github.com/skydoves/android-developer-roadmap/watchers)** on GitHub or follow **[Stream](https://twitter.com/getstream_io)** on Twitter. You can also follow the __[author](https://github.com/skydoves)__ of this repository on GitHub.
+If you'd like to get notified as we release future posts, join the **[watchers](https://github.com/skydoves/android-developer-roadmap/watchers)** on GitHub or follow the __[author](https://github.com/skydoves)__ of this repository owner on GitHub.
+
+<a href="https://www.android.skydoves.me/">
+<img src="https://github.com/user-attachments/assets/e014ce01-3461-40af-bb2a-eb44f3f55f36" width="13%" align="right"/>
+</a>
+
+## 📘 Manifest Android Interview
+
+[Manifest Android Interview](https://www.android.skydoves.me/) is a comprehensive guide designed to enhance your Android development expertise through 108 interview questions with detailed answers, 162 additional practical questions, and 50+ "Pro Tips for Mastery" sections. The interview questions primarily focus on Android development—including the Framework, UI, Jetpack Libraries, and Business Logic—as well as Jetpack Compose, covering Fundamentals, Runtime, and UI.
 
 <a href="https://github.com/doveletter">
 <img src="https://github.com/user-attachments/assets/3ecd2a7b-9713-40cd-8817-fa568271cefa" width="13%" align="right"/>
